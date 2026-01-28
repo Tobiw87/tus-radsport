@@ -20,6 +20,12 @@ body {
   padding-top: var(--header-height);
 }
 
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
 /* =========================
    Header
    ========================= */
@@ -50,7 +56,7 @@ body {
   margin-left: 24px;
 }
 
-.brand img {
+.brand-logo {
   height: 36px;
   width: auto;
   display: block;
