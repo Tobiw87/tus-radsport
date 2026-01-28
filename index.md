@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Radsport in Werdohl 
+title: "Radsport in Werdohl   
 - ohne Leistungsdruck, mit Spaß am Fahren."
 ---
+
+![Hero]({{ '/assets/images/hero.jpeg' | relative_url }})
 
 ## Gemeinsam unterwegs. Auf dem Rad und darüber hinaus.
 
