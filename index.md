@@ -5,7 +5,7 @@ title: Radsport in Werdohl
 ---
 ## - ohne Leistungsdruck, mit Spaß am Fahren.
 
-![Hero]({{ '/assets/images/hero.jpeg' | relative_url }})
+<img class="hero" src="{{ '/assets/images/hero.jpeg' | relative_url }}" alt="Hero">
 
 ## Gemeinsam unterwegs. Auf dem Rad und darüber hinaus.
 
