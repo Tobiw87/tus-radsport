@@ -87,10 +87,6 @@ body {
    Main Content
    ========================= */
 
-html, body {
-  height: 100%;
-}
-
 .site-main {
   flex: 1; 
   padding: 16px 0;
@@ -105,7 +101,6 @@ html, body {
 
 .site-main img {
   display: block;
-  width: 100%;
   height: auto;
 }
 
