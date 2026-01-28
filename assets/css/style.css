@@ -97,6 +97,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
   padding: 24px 16px;
+  overflow: hidden;
 }
 
 .site-main img {
@@ -104,16 +105,13 @@ body {
   height: auto;
 }
 
-.site-main .hero {
+.site-main img.hero {
   display: block;
   width: calc(100% + 32px);
-  max-width: none;  
-  margin-left: -16px;
-  margin-right: -16px;
-  margin-bottom: 24px;
+  max-width: none;
+  margin: 0 -16px 24px;
   border-radius: 10px 10px 0 0;
 }
-
 
 /* =========================
    Footer
