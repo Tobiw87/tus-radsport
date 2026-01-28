@@ -1,14 +1,34 @@
 ---
 layout: default
-title: "Willkommen"
+title: "Radsport in Werdohl - ohne Leistungsdruck, mit Spaß am Fahren."
 ---
 
-![Hero]({{ '/assets/images/hero.jpeg' | relative_url }})
+## Gemeinsam unterwegs. Auf dem Rad und darüber hinaus.
 
-Willkommen auf der Website unserer Radsportabteilung.
+Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.**  
+Bei uns steht das **gemeinsame Fahren** im Mittelpunkt – ohne Leistungsdruck, aber mit sportlichem Anspruch.
 
-## Angebote
-- Rennrad
-- MTB
-- Touren & Ausfahrten
-- CTF / Veranstaltungen
+---
+
+### Was uns ausmacht
+
+- 🚴‍♂️ **MTB- & Rennradgruppen**  
+- 🤝 **Gemeinschaft statt Wettkampf**  
+- 🗓️ **Regelmäßige Trainings & gemeinsame Termine**  
+- 👋 **Gäste jederzeit willkommen**
+
+---
+
+### Radsport, wie wir ihn leben
+
+Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs.  
+Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
+
+---
+
+👉 **Neugierig?**  
+Dann lern uns kennen:
+- [Über uns](/about)
+- [Trainingszeiten](/trainingszeiten)
+- [Rennrad](/rennrad)
+
