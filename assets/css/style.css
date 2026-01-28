@@ -17,6 +17,7 @@ body {
   flex-direction: column;
   margin: 0;
   padding-top: var(--header-height);
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-position: center;
@@ -65,18 +66,6 @@ body {
   display: block;
 }
 
-.nav a {
-  text-decoration: none;
-  color: inherit;
-  opacity: 0.85;
-}
-
-.nav a:hover {
-  opacity: 1;
-  text-decoration: underline;
-}
-
-
 /* =========================
    Navigation
    ========================= */
@@ -90,6 +79,7 @@ body {
 
 .nav a:hover {
   opacity: 1;
+  text-decoration: underline;
 }
 
 
@@ -103,7 +93,7 @@ html, body {
 
 .site-main {
   flex: 1; 
-  padding: 24px 0;
+  padding: 16px 0;
 }
 
 .site-main .wrap {
@@ -207,4 +197,24 @@ img {
   .card-grid {
     grid-template-columns: 1fr;
   }
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+.site-main p {
+  max-width: 65ch;
+}
+
+.card p {
+  max-width: none;
 }

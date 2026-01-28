@@ -29,7 +29,7 @@ Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradru
 
 ---
 
-👉 **Neugierig?**  
+## 👉 **Neugierig?**  
 
 <div class="card-grid">
 
@@ -38,7 +38,7 @@ Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradru
     <p>Wer wir sind, wie wir ticken und warum bei uns Gemeinschaft vor Leistung steht.</p>
   </a>
 
-  <a class="card" href="{{ '/trainingszeiten' | relative_url }}">
+  <a class="card" href="{{ '/training' | relative_url }}">
     <h3>Trainingszeiten</h3>
     <p>Wann wir unterwegs sind, wo wir starten und was dich bei uns erwartet.</p>
   </a>
