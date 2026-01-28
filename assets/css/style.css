@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   margin: 0;
   padding-top: var(--header-height);
-  background-image: url("{{ '/assets/images/background.jpg' | relative_url }}");
+  background-image: url("../images/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -91,7 +91,15 @@ html, body {
 }
 
 .site-main {
-  flex: 1; /* nimmt den verfügbaren Platz ein */
+  flex: 1; 
+  padding: 24px 0;
+}
+
+.site-main .wrap {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  padding: 24px 16px;
 }
 
 
