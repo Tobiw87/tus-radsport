@@ -65,6 +65,11 @@ body {
   display: block;
 }
 
+.header-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 
 /* =========================
    Navigation
