@@ -9,7 +9,10 @@
 <body>
   <header class="header">
     <div class="wrap">
-      <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}"
+            alt="{{ site.title }} – Startseite">
+      </a>
       <nav class="nav">
         <a href="{{ '/' | relative_url }}">Start</a>
         <a href="{{ '/about' | relative_url }}">Über uns</a>
