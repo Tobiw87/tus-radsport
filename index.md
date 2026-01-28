@@ -29,7 +29,7 @@ Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
 
 👉 **Neugierig?**  
 Dann lern uns kennen:
-- [Über uns](../about)
-- [Trainingszeiten](../trainingszeiten)
-- [Rennrad](../rennrad)
+- [Über uns]({{ '/about' | relative_url }})
+- [Trainingszeiten]({{ '/trainingszeiten' | relative_url }})
+- [Rennrad]({{ '/rennrad' | relative_url }})
 
