@@ -14,7 +14,6 @@
             alt="{{ site.title }} – Startseite">
       </a>
       <nav class="nav">
-        <a href="{{ '/' | relative_url }}">Start</a>
         <a href="{{ '/about' | relative_url }}">Über uns</a>
         <a href="{{ '/news' | relative_url }}">News</a>
       </nav>
@@ -29,6 +28,7 @@
   <footer class="footer">
     <div class="wrap">
       <small>© {{ "now" | date: "%Y" }} {{ site.title }}</small>
+      <a href="{{ '/impressum' | relative_url }}">impressum</a>
     </div>
   </footer>
 </body>
