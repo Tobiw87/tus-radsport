@@ -94,9 +94,11 @@ body {
 }
 
 .footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
   display: flex;
-  justify-content: flex-start;
   align-items: center;
+  justify-content: flex-start;
   padding: 24px 16px;
 }
 
@@ -117,7 +119,7 @@ body {
   text-decoration: underline;
 }
 
-.nav {
+.footer-link {
   margin-left: 24px;
 }
 
