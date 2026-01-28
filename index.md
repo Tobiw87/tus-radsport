@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Radsport in Werdohl   
-- ohne Leistungsdruck, mit Spaß am Fahren."
+title: Radsport in Werdohl
+
 ---
+### Radsport in Werdohl
+- ohne Leistungsdruck, mit Spaß am Fahren.
 
 ![Hero]({{ '/assets/images/hero.jpeg' | relative_url }})
 
@@ -24,8 +26,7 @@ Bei uns steht das **gemeinsame Fahren** im Mittelpunkt – ohne Leistungsdruck, 
 
 ### Radsport, wie wir ihn leben
 
-Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs.  
-Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
+Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs. Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
 
 ---
 
