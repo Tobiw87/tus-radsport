@@ -42,7 +42,11 @@ body {
 
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+}
+
+.nav {
+  margin-left: 24px;
 }
 
 .brand img {
@@ -91,7 +95,7 @@ body {
 
 .footer-inner {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   padding: 24px 16px;
 }
