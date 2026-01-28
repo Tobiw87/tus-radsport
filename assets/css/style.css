@@ -65,7 +65,13 @@ body {
   display: block;
 }
 
-.header-link:hover {
+.nav a {
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.85;
+}
+
+.nav a:hover {
   opacity: 1;
   text-decoration: underline;
 }
