@@ -117,6 +117,10 @@ body {
   text-decoration: underline;
 }
 
+.nav {
+  margin-left: 24px;
+}
+
 
 /* =========================
    Media
