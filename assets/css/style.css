@@ -16,8 +16,11 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0;
-  /* dein padding-top für den fixed header bleibt */
   padding-top: var(--header-height);
+  background-image: url("{{ '/assets/images/background.jpg' | relative_url }}");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .wrap {
