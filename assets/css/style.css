@@ -12,12 +12,13 @@
 }
 
 body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   margin: 0;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  line-height: 1.55;
+  /* dein padding-top für den fixed header bleibt */
   padding-top: var(--header-height);
 }
-
 
 /* =========================
    Header
@@ -76,10 +77,12 @@ body {
    Main Content
    ========================= */
 
+html, body {
+  height: 100%;
+}
+
 .site-main {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 24px 16px;
+  flex: 1; /* nimmt den verfügbaren Platz ein */
 }
 
 
@@ -108,6 +111,7 @@ body {
 }
 
 .footer-link {
+  margin-left: 24px;
   text-decoration: none;
   font-size: 0.9rem;
   color: inherit;
@@ -117,10 +121,6 @@ body {
 .footer-link:hover {
   opacity: 1;
   text-decoration: underline;
-}
-
-.footer-link {
-  margin-left: 24px;
 }
 
 
