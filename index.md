@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Radsport in Werdohl - ohne Leistungsdruck, mit Spaß am Fahren."
+title: "Radsport in Werdohl 
+- ohne Leistungsdruck, mit Spaß am Fahren."
 ---
 
 ## Gemeinsam unterwegs. Auf dem Rad und darüber hinaus.
@@ -28,7 +29,7 @@ Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
 
 👉 **Neugierig?**  
 Dann lern uns kennen:
-- [Über uns](/about)
-- [Trainingszeiten](/trainingszeiten)
-- [Rennrad](/rennrad)
+- [Über uns](../about)
+- [Trainingszeiten](../trainingszeiten)
+- [Rennrad](../rennrad)
 
