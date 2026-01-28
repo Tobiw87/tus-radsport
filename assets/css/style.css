@@ -108,18 +108,22 @@ html, body {
    ========================= */
 
 .site-footer {
-  max-width: var(--max-width);
-  margin: 64px auto 24px;
+  margin: 24px 0;  
+  background: transparent; 
+  border-top: none;   
+}
+
+.site-footer .wrap {
   background: #fafafa;
   border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  padding: 24px 16px;
 }
 
 .footer-inner {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 24px 16px;
 }
 
 .site-footer small {
