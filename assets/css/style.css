@@ -36,20 +36,20 @@ body {
 .site-header {
   position: fixed;
   top: 0;
-  left: 0;
-  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: var(--max-width);
   height: var(--header-height);
   background: #fff;
   border-bottom: 1px solid #e5e5e5;
+  border-radius: 0 0 10px 10px;
   z-index: 1000;
 }
 
 .header-inner {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 16px;
   height: 100%;
-
+  padding: 0 16px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -108,14 +108,14 @@ html, body {
    ========================= */
 
 .site-footer {
-  margin-top: 64px;
-  border-top: 1px solid #e5e5e5;
+  max-width: var(--max-width);
+  margin: 64px auto 24px;
   background: #fafafa;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
 }
 
 .footer-inner {
-  max-width: var(--max-width);
-  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: flex-start;
