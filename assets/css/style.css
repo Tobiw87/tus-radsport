@@ -103,6 +103,12 @@ html, body {
   padding: 24px 16px;
 }
 
+.site-main img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 
 /* =========================
    Footer
@@ -211,10 +217,19 @@ h2 {
   font-weight: 600;
 }
 
+.card p {
+  max-width: none;
+}
+
 .site-main p {
   max-width: 65ch;
 }
 
-.card p {
+.site-main ul,
+.site-main ol,
+.site-main li,
+.site-main h1,
+.site-main h2,
+.site-main h3 {
   max-width: none;
 }
