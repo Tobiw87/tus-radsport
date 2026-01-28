@@ -228,6 +228,10 @@ h2 {
   max-width: 65ch;
 }
 
+.site-main p:has(img) {
+  max-width: none;
+}
+
 .site-main ul,
 .site-main ol,
 .site-main li,
