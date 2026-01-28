@@ -30,8 +30,23 @@ Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradru
 ---
 
 👉 **Neugierig?**  
-Dann lern uns kennen:
-- [Über uns]({{ '/about' | relative_url }})
-- [Trainingszeiten]({{ '/trainingszeiten' | relative_url }})
-- [Rennrad]({{ '/rennrad' | relative_url }})
+
+<div class="card-grid">
+
+  <a class="card" href="{{ '/about' | relative_url }}">
+    <h3>Über uns</h3>
+    <p>Wer wir sind, wie wir ticken und warum bei uns Gemeinschaft vor Leistung steht.</p>
+  </a>
+
+  <a class="card" href="{{ '/trainingszeiten' | relative_url }}">
+    <h3>Trainingszeiten</h3>
+    <p>Wann wir unterwegs sind, wo wir starten und was dich bei uns erwartet.</p>
+  </a>
+
+  <a class="card" href="{{ '/rennrad' | relative_url }}">
+    <h3>Rennrad</h3>
+    <p>Gemeinsame Ausfahrten, sauberes Fahren in der Gruppe und lange Strecken.</p>
+  </a>
+
+</div>
 
