@@ -8,9 +8,10 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="header-inner">
+    <div class="wrap header-inner">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}"
+        <img class="brand-logo"
+             src="{{ '/assets/images/logo.png' | relative_url }}"
              alt="{{ site.title }} – Startseite">
       </a>
       <nav class="nav">
@@ -19,12 +20,11 @@
       </nav>
     </div>
   </header>
-
   <main class="site-main">
     <h1>{{ page.title }}</h1>
     {{ content }}
   </main>
-  <footer class="footer">
+  <footer class="site-footer">
     <div class="wrap">
       <small>© {{ "now" | date: "%Y" }} {{ site.title }}</small>
       <a href="{{ '/impressum' | relative_url }}">impressum</a>
