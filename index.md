@@ -3,8 +3,7 @@ layout: default
 title: Radsport in Werdohl
 
 ---
-### Radsport in Werdohl
-- ohne Leistungsdruck, mit Spaß am Fahren.
+## - ohne Leistungsdruck, mit Spaß am Fahren.
 
 ![Hero]({{ '/assets/images/hero.jpeg' | relative_url }})
 
