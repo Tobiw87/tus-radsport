@@ -84,11 +84,33 @@ body {
    ========================= */
 
 .site-footer {
-  max-width: var(--max-width);
-  margin: 48px auto 0;
-  padding: 24px 16px;
+  margin-top: 64px;
   border-top: 1px solid #e5e5e5;
+  background: #fafafa;
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 16px;
+}
+
+.site-footer small {
+  font-size: 0.9rem;
   opacity: 0.8;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.footer-link:hover {
+  opacity: 1;
+  text-decoration: underline;
 }
 
 
