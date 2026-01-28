@@ -1,27 +1,102 @@
-:root { --max: 920px; }
+/* =========================
+   Basis
+   ========================= */
 
-body {
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  margin: 0;
-  line-height: 1.55;
-  padding-top: 72px;
+:root {
+  --max-width: 920px;
+  --header-height: 64px;
 }
 
-.wrap { max-width: var(--max); margin: 0 auto; padding: 16px; }
+* {
+  box-sizing: border-box;
+}
 
-.header {
-  border-bottom: 1px solid #e5e5e5;
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height: 1.55;
+  padding-top: var(--header-height);
+}
+
+
+/* =========================
+   Header
+   ========================= */
+
+.site-header {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
+  height: var(--header-height);
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
   z-index: 1000;
-  background: white;
 }
-.brand { font-weight: 700; text-decoration: none; color: inherit; }
-.nav a { margin-left: 12px; text-decoration: none; color: inherit; opacity: 0.85; }
-.nav a:hover { opacity: 1; }
 
-.footer { margin-top: 48px; padding: 24px 0; border-top: 1px solid #e5e5e5; opacity: 0.8; }
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 16px;
+  height: 100%;
 
-img { max-width: 100%; border-radius: 10px; }
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand img {
+  height: 36px;
+  width: auto;
+  display: block;
+}
+
+
+/* =========================
+   Navigation
+   ========================= */
+
+.nav a {
+  margin-left: 16px;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.85;
+}
+
+.nav a:hover {
+  opacity: 1;
+}
+
+
+/* =========================
+   Main Content
+   ========================= */
+
+.site-main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+
+/* =========================
+   Footer
+   ========================= */
+
+.site-footer {
+  max-width: var(--max-width);
+  margin: 48px auto 0;
+  padding: 24px 16px;
+  border-top: 1px solid #e5e5e5;
+  opacity: 0.8;
+}
+
+
+/* =========================
+   Media
+   ========================= */
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}

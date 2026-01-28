@@ -7,11 +7,11 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header class="header">
-    <div class="wrap">
+  <header class="site-header">
+    <div class="header-inner">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/images/logo.png' | relative_url }}"
-            alt="{{ site.title }} – Startseite">
+             alt="{{ site.title }} – Startseite">
       </a>
       <nav class="nav">
         <a href="{{ '/about' | relative_url }}">Über uns</a>
@@ -20,11 +20,10 @@
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="site-main">
     <h1>{{ page.title }}</h1>
     {{ content }}
   </main>
-
   <footer class="footer">
     <div class="wrap">
       <small>© {{ "now" | date: "%Y" }} {{ site.title }}</small>
