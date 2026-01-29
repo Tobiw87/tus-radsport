@@ -11,5 +11,5 @@ Wir vom Vorstand freuen uns auf rege beteiligung und guter Planung
 
 
 ---
-**23.01.2026** – Website im Aufbau 🚴‍♂️  
-**Nächstes Event** – Tourentag folgt.
+**23.01.2026** – Start des Website im Aufbaus 🚴‍♂️  
+

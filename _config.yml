@@ -1,2 +1,55 @@
-title: "TuS Jahn Werdohl Abteilung Radsport"
+title: "TuS Jahn Werdohl – Abteilung Radsport"
 lang: "de"
+
+# Zentrale Links & Kontakt (einmal ändern, überall aktuell)
+contact:
+  name: "Tobias Withalm"
+  phone_display: "0160 8226897"
+  phone_link: "+491608226897"
+  email: "schlotmann@t-online.de"
+  website: "https://www.tusjahnwerdohl.de"
+
+links:
+  impressum: "https://www.tusjahnwerdohl.de/impressum-.html"
+  datenschutz: "/datenschutz"
+
+footer:
+  note: "Der Radsport ist eine Abteilung des TuS Jahn Werdohl e. V."
+
+# Header-Navigation
+navigation:
+  - title: "Über uns"
+    url: "/about"
+  - title: "Termine"
+    url: "/termine"
+  - title: "News"
+    url: "/news"
+  - title: "Training"
+    url: "/training"
+  - title: "Rennrad"
+    url: "/rennrad"
+
+# Sidebar-Inhalte
+sidebar:
+  training:
+    title: "Trainingszeiten"
+    meeting_point_label: "Treffpunkt:"
+    meeting_point_text: "Brüninghausplatz (vor dem alten WK)"
+    bullets:
+      - "Dienstags & Donnerstags"
+      - "Vor- und Nachsommer: 17:30 – 20:00"
+      - "Juni – August: 18:30 – 21:00"
+      - "Endzeit variiert je nach Streckenlänge"
+
+  downloads:
+    title: "Downloads"
+    links:
+      - label: "Satzung"
+        url: "https://www.tusjahnwerdohl.de/files/Satzung_2013.pdf"
+      - label: "Mitgliedsantrag"
+        url: "https://www.tusjahnwerdohl.de/files/DSGVO_Aufnahmeantrag-TuS-Jahn-ab-2025.pdf"
+
+  join:
+    title: "Du möchtest mitfahren?"
+    intro: "Melde dich einfach bei"
+    outro: "per WhatsApp oder Anruf"

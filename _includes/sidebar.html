@@ -1,42 +1,43 @@
 <section class="sidebar-block">
-  <h3>Trainingszeiten</h3>
+  <h3>{{ site.sidebar.training.title }}</h3>
 
   <p>
-    <strong>Treffpunkt:</strong><br>
-    Brüninghausplatz (vor dem alten WK)
+    <strong>{{ site.sidebar.training.meeting_point_label }}</strong><br>
+    {{ site.sidebar.training.meeting_point_text }}
   </p>
 
   <ul>
-    <li>Dienstags &amp; Donnerstags</li>
-    <li>Vor- und Nachsommer: 17:30 – 20:00</li>
-    <li>Juni - August: 18:30 – 21:00</li>
-    <li>Endzeit variiert je nach Streckenlänge</li>
+    {% for item in site.sidebar.training.bullets %}
+      <li>{{ item }}</li>
+    {% endfor %}
   </ul>
 </section>
 
 <section class="sidebar-block">
-  <h3>Downloads</h3>
+  <h3>{{ site.sidebar.downloads.title }}</h3>
 
   <p class="sidebar-links">
-    <a href="https://www.tusjahnwerdohl.de/files/Satzung_2013.pdf"
-       target="_blank" rel="noopener noreferrer">
-      Satzung
-    </a><br>
-
-    <a href="https://www.tusjahnwerdohl.de/files/DSGVO_Aufnahmeantrag-TuS-Jahn-ab-2025.pdf"
-       target="_blank" rel="noopener noreferrer">
-      Mitgliedsantrag
-    </a>
+    {% for item in site.sidebar.downloads.links %}
+      <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.label }}</a><br>
+    {% endfor %}
   </p>
 </section>
 
 <section class="sidebar-block">
-  <h3>Du möchtest mitfahren?</h3>
+  <h3>{{ site.sidebar.join.title }}</h3>
 
   <p>
-    Melde dich einfach bei<br>
-    <strong>Tobias Withalm</strong><br>
-    0160&nbsp;8226897<br>
-    per WhatsApp oder Anruf
+    {{ site.sidebar.join.intro }}<br>
+    <strong>{{ site.contact.name }}</strong><br>
+
+    <a href="tel:{{ site.contact.phone_link }}">{{ site.contact.phone_display }}</a><br>
+    <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a><br>
+
+    <a href="{{ site.contact.website }}"
+       target="_blank" rel="noopener noreferrer">
+      {{ site.contact.website | replace: 'https://', '' | replace: 'http://', '' }}
+    </a><br>
+
+    {{ site.sidebar.join.outro }}
   </p>
 </section>

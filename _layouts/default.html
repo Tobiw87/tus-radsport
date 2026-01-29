@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>{{ page.title }} · {{ site.title }}</title>
 
   <link rel="icon"
@@ -19,18 +20,16 @@
 <body>
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Startseite">
         <img class="brand-logo"
              src="{{ '/assets/images/logo.png' | relative_url }}"
-             alt="{{ site.title }} – Startseite">
+             alt="{{ site.title }}">
       </a>
 
       <nav class="nav" aria-label="Hauptnavigation">
-        <a href="{{ '/about' | relative_url }}">Über uns</a>
-        <a href="{{ '/termine' | relative_url }}">Termine</a>
-        <a href="{{ '/news' | relative_url }}">News</a>
-        <a href="{{ '/training' | relative_url }}">Training</a>
-        <a href="{{ '/rennrad' | relative_url }}">Rennrad</a>
+        {% for item in site.navigation %}
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endfor %}
       </nav>
     </div>
   </header>
@@ -42,7 +41,10 @@
       </aside>
 
       <section class="content">
-        <h1>{{ page.title }}</h1>
+        {% unless page.hide_title %}
+          <h1>{{ page.title }}</h1>
+        {% endunless %}
+
         {{ content }}
       </section>
     </div>
@@ -51,18 +53,16 @@
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-meta">
-        <span class="footer-note">
-          Der Radsport ist eine Abteilung des TuS Jahn Werdohl e. V.
-        </span>
+        <span class="footer-note">{{ site.footer.note }}</span>
       </div>
 
       <nav class="footer-nav" aria-label="Footer-Navigation">
-        <a href="https://www.tusjahnwerdohl.de/impressum-.html"
+        <a href="{{ site.links.impressum }}"
            target="_blank" rel="noopener noreferrer">
           Impressum
         </a>
         <span class="footer-sep">|</span>
-        <a href="{{ '/datenschutz' | relative_url }}">
+        <a href="{{ site.links.datenschutz | relative_url }}">
           Datenschutz
         </a>
       </nav>
