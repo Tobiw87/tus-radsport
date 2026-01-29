@@ -327,28 +327,3 @@ h2 {
 .site-main h3 {
   max-width: none;
 }
-
-.page-overlay {
-  position: relative;
-  flex: 1;
-}
-
-.page-overlay::before {
-  content: "";
-  position: fixed;  
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100%;
-  max-width: var(--max-width);
-  height: 100vh;  
-  background: rgba(0,0,0,0.6);
-  border-radius: 10px;
-  z-index: 500;   
-  pointer-events: none; 
-}
-
-.page-content {
-  position: relative;
-  z-index: 600;  
-}
