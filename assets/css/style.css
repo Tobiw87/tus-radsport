@@ -209,12 +209,8 @@ img {
     position: static;
   }
 
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-    margin: 32px 0;
-  }
+  .card-grid { grid-template-columns: 1fr; }
+  .card { padding: 16px; }
 }
 
 /* =========================
@@ -332,9 +328,5 @@ h2 { font-weight: 600; }
 .site-main ul,
 .site-main ol,
 .site-main li {
-  max-width: none;
-}
-
-.card p {
   max-width: none;
 }
