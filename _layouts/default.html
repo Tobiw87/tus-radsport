@@ -26,11 +26,16 @@
              alt="{{ site.title }}">
       </a>
 
-      <nav class="nav" aria-label="Hauptnavigation">
+      <nav class="nav" id="site-nav" aria-label="Hauptnavigation">
         {% for item in site.navigation %}
           <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
         {% endfor %}
       </nav>
+      <button class="nav-toggle"
+              aria-label="Menü öffnen"
+              aria-expanded="false">
+        ☰
+      </button>
     </div>
   </header>
 
@@ -68,5 +73,6 @@
       </nav>
     </div>
   </footer>
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
 </body>
 </html>

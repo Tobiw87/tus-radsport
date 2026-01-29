@@ -133,6 +133,16 @@ a:hover {
   opacity: 1;
 }
 
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  color: inherit;
+  cursor: pointer;
+  margin-left: auto;
+}
+
 /* =========================
    6) Main Layout
    ========================= */
@@ -306,5 +316,29 @@ h2 { font-weight: 600; }
 
   .card {
     padding: 16px;
+  }
+
+  .nav {
+    display: none;
+    width: 100%;
+    margin-top: 12px;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .nav a {
+    margin-left: 0;
+  }
+
+  .nav.is-open {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+
+  .header-inner {
+    flex-wrap: wrap;
   }
 }
