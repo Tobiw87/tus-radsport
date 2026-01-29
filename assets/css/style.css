@@ -45,10 +45,15 @@ body {
   width: 100%;
   max-width: var(--max-width);
   height: var(--header-height);
+  color: var(--text-header);
   background: #8E8C92;
   border-bottom: 1px solid #000000;
   border-radius: 0 0 10px 10px;
   z-index: 1000;
+}
+
+.site-header a {
+  color: inherit;
 }
 
 .header-inner {
@@ -116,12 +121,18 @@ body {
 /* Sidebar bleibt sichtbar */
 .sidebar {
   position: sticky;
+  color: var(--text-muted);
   top: calc(var(--header-height) + 16px);
+}
+
+.sidebar h3 {
+  color: #ffffff;
 }
 
 /* Content darf clipping nutzen */
 .content {
   overflow: hidden;
+  color: var(--text-main);
 }
 
 /* Content Bilder */
