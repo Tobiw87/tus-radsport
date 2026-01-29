@@ -1,3 +1,8 @@
+---
+layout: default
+title: Datenschutz
+
+---
 
 ## 1. Verantwortlicher
 

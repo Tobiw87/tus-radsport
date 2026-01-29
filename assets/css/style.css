@@ -42,7 +42,7 @@ body {
   width: 100%;
   max-width: var(--max-width);
   height: var(--header-height);
-  background: #fff;
+  background: #8E8C92;
   border-bottom: 1px solid #e5e5e5;
   border-radius: 0 0 10px 10px;
   z-index: 1000;
