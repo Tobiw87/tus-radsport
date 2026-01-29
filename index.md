@@ -7,10 +7,11 @@ title: Radsport in Werdohl
 
 <img class="hero" src="{{ '/assets/images/hero.jpeg' | relative_url }}" alt="Hero">
 
-## Gemeinsam unterwegs. Auf dem Rad und darüber hinaus.
+## Gemeinsam auf dem Rad unterwegs
 
 Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.**  
-Bei uns steht das **gemeinsame Fahren** im Mittelpunkt – ohne Leistungsdruck, aber mit sportlichem Anspruch.
+Bei uns steht das **gemeinsame Fahren** im Mittelpunkt 
+– ohne Leistungsdruck, aber mit sportlichem Anspruch.
 
 ---
 
@@ -25,7 +26,8 @@ Bei uns steht das **gemeinsame Fahren** im Mittelpunkt – ohne Leistungsdruck, 
 
 ### Radsport, wie wir ihn leben
 
-Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs. Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
+Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs.
+Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
 
 ---
 

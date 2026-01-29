@@ -327,3 +327,25 @@ h2 {
 .site-main h3 {
   max-width: none;
 }
+
+.page-overlay {
+  position: relative;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* der dunkle Schleier */
+.page-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* 60% schwarz */
+  border-radius: 10px;
+  z-index: 1;
+}
+
+/* eigentlicher Inhalt liegt darüber */
+.page-content {
+  position: relative;
+  z-index: 2;
+}
