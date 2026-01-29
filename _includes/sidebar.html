@@ -30,12 +30,8 @@
     {{ site.sidebar.join.intro }}<br>
     <strong>{{ site.contact.name }}</strong><br>
 
-    <a href="tel:{{ site.contact.phone_link }}">{{ site.contact.phone_display }}</a><br>
-    <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a><br>
-
-    <a href="{{ site.contact.website }}"
-       target="_blank" rel="noopener noreferrer">
-      {{ site.contact.website | replace: 'https://', '' | replace: 'http://', '' }}
+    <a href="tel:{{ site.contact.phone_link }}">
+      {{ site.contact.phone_display }}
     </a><br>
 
     {{ site.sidebar.join.outro }}
