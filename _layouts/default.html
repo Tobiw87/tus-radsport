@@ -30,16 +30,21 @@
     </div>
   </header>
   <main class="site-main">
-    <div class="wrap">
-      <h1>{{ page.title }}</h1>
-      {{ content }}
+    <div class="wrap layout-2col">
+      <aside class="sidebar">
+        {% include sidebar.html %}
+      </aside>
+      <section class="content">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </section>
     </div>
   </main>
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-meta">
         <span class="footer-note">
-          Abteilung Radsport des Turn- und Sportvereins Jahn Werdohl e. V.
+          Der Radsport ist eine Abteilung des TuS Jahn Werdohl e. V.
         </span>
       </div>
       <nav class="footer-nav">
