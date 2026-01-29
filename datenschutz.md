@@ -10,14 +10,26 @@ Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
 **TuS Jahn Werdohl e.V.**  
 Abteilung Radsport  
-Postfach 1771
-58777 Werdohl
-Tel. 02392 180295
+Postfach 1771  
+58777 Werdohl  
+Tel. 02392 180295  
 
 Vertreten durch den Vorstand des Hauptvereins gemäß § 26 BGB.
 
-E-Mail: schlotmann@t-online.de
-Internet www.tusjahnwerdohl.de
+<p>
+  E-Mail:
+  <a href="mailto:schlotmann@t-online.de">
+    schlotmann@t-online.de
+  </a>
+</p>
+
+<p>
+  Internet:
+  <a href="https://www.tusjahnwerdohl.de"
+     target="_blank" rel="noopener noreferrer">
+    www.tusjahnwerdohl.de
+  </a>
+</p>
 
 ---
 
