@@ -43,7 +43,6 @@ body {
   max-width: var(--max-width);
   height: var(--header-height);
   background: #8E8C92;
-  border-bottom: 1px solid #e5e5e5;
   border-radius: 0 0 10px 10px;
   z-index: 1000;
 }
@@ -93,7 +92,7 @@ body {
 }
 
 .site-main .wrap {
-  background: #fff;
+  background: #8E8C92;
   border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
   padding: 24px 16px;
