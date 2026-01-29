@@ -1,14 +1,27 @@
 /* =========================
-   Basis
+   1) Design Tokens
    ========================= */
 
 :root {
   --max-width: 920px;
   --header-height: 64px;
+
+  --radius: 10px;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+
+  --bg-card: #8E8C92;
+  --bg-footer: #fafafa;
+
+  --border-strong: 1px solid #000000;
+
   --text-main: #f2f2f2;
   --text-muted: #d9d9d9;
-  --text-header: #f5f5f5; 
+  --text-header: #f5f5f5;
 }
+
+/* =========================
+   2) Base / Reset
+   ========================= */
 
 * {
   box-sizing: border-box;
@@ -16,25 +29,39 @@
 
 body {
   min-height: 100vh;
+  margin: 0;
   display: flex;
   flex-direction: column;
-  margin: 0;
+
   padding-top: var(--header-height);
-  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
+  font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
-.wrap {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0;
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: var(--radius);
 }
 
 /* =========================
-   Header
+   3) Layout Helpers
+   ========================= */
+
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* =========================
+   4) Header / Navigation
    ========================= */
 
 .site-header {
@@ -42,13 +69,17 @@ body {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
+
   width: 100%;
   max-width: var(--max-width);
   height: var(--header-height);
+
   color: var(--text-header);
-  background: #8E8C92;
-  border-bottom: 1px solid #000000;
-  border-radius: 0 0 10px 10px;
+  background: var(--bg-card);
+
+  border-bottom: var(--border-strong);
+  border-radius: 0 0 var(--radius) var(--radius);
+
   z-index: 1000;
 }
 
@@ -58,30 +89,20 @@ body {
 
 .header-inner {
   height: 100%;
-  padding: 0 16px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-
-.nav {
-  margin-left: 24px;
+  gap: 24px;
 }
 
 .brand-logo {
   height: 36px;
   width: auto;
-  display: block;
 }
-
-/* =========================
-   Navigation
-   ========================= */
 
 .nav a {
   margin-left: 16px;
   text-decoration: none;
-  color: inherit;
   opacity: 0.85;
 }
 
@@ -90,65 +111,57 @@ body {
   text-decoration: underline;
 }
 
-
 /* =========================
-   Main Content (2-Spalten)
+   5) Main Layout (2 columns)
    ========================= */
 
 .site-main {
   flex: 1;
-  padding: 16px 16px;
+  padding: 16px 0;
 }
 
-/* Grid-Gerüst innerhalb deines .wrap */
 .layout-2col {
   display: grid;
-  grid-template-columns: 1fr 3fr; /* 25% / 75% */
+  grid-template-columns: 1fr 3fr;
   gap: 24px;
   align-items: start;
 }
 
-/* Gemeinsamer "Karten"-Look für Sidebar + Content */
+/* Shared "card" style for blocks */
 .sidebar,
 .content {
-  background: #8E8C92;
-  border-radius: 10px;
-  border-bottom: 1px solid #000000;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  border-bottom: var(--border-strong);
+  box-shadow: var(--shadow);
+
   padding: 24px 16px;
 }
 
-/* Sidebar bleibt sichtbar */
 .sidebar {
   position: sticky;
-  color: var(--text-muted);
   top: calc(var(--header-height) + 16px);
+  color: var(--text-muted);
 }
 
 .sidebar h3 {
   color: #ffffff;
 }
 
-/* Content darf clipping nutzen */
 .content {
   overflow: hidden;
   color: var(--text-main);
 }
 
-/* Content Bilder */
-.content img {
-  display: block;
-  height: auto;
-}
-
+/* Hero image: special case */
 .content img.hero {
   width: calc(100% + 32px);
   max-width: none;
   margin: 0 -16px 24px;
-  border-radius: 10px 10px 0 0;
+  border-radius: var(--radius) var(--radius) 0 0;
 }
 
-/* Sidebar Textblöcke */
+/* Sidebar content */
 .sidebar-block + .sidebar-block {
   margin-top: 24px;
 }
@@ -161,19 +174,7 @@ body {
 
 .sidebar-block p {
   margin: 0;
-  max-width: none;
   opacity: 0.9;
-}
-
-/* Mobil: untereinander */
-@media (max-width: 800px) {
-  .layout-2col {
-    grid-template-columns: 1fr;
-  }
-
-  .sidebar {
-    position: static;
-  }
 }
 
 .sidebar ul {
@@ -192,8 +193,23 @@ body {
   text-decoration: underline;
 }
 
+/* Responsive */
+@media (max-width: 800px) {
+  .layout-2col {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* =========================
-   Footer
+   6) Footer
    ========================= */
 
 .site-footer {
@@ -201,9 +217,9 @@ body {
 }
 
 .site-footer .wrap {
-  background: #fafafa;
-  border-radius: 10px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  background: var(--bg-footer);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
   padding: 24px 16px;
 }
 
@@ -241,16 +257,7 @@ body {
 }
 
 /* =========================
-   Media
-   ========================= */
-
-img {
-  max-width: 100%;
-  border-radius: 10px;
-}
-
-/* =========================
-   Card Grid (Startseite)
+   7) Card Grid (Startseite)
    ========================= */
 
 .card-grid {
@@ -263,20 +270,20 @@ img {
 .card {
   display: block;
   padding: 24px;
-  background: #fff;
-  border-radius: 10px;
-  text-decoration: none;
-  color: #8E8C92;
 
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  background: #ffffff;
+  border-radius: var(--radius);
+
+  text-decoration: none;
+  color: var(--bg-card);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-
 .card h3 {
-  margin-top: 0;
-  color: #6f6d72; 
-  margin-bottom: 8px;
+  margin: 0 0 8px;
+  color: #6f6d72;
 }
 
 .card p {
@@ -286,44 +293,27 @@ img {
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
-@media (max-width: 800px) {
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
-}
+/* =========================
+   8) Typography defaults
+   ========================= */
 
 h1, h2, h3 {
   letter-spacing: -0.02em;
-}
-
-h1 {
-  font-weight: 700;
-}
-
-h2 {
-  font-weight: 600;
-}
-
-.card p {
   max-width: none;
 }
+
+h1 { font-weight: 700; }
+h2 { font-weight: 600; }
 
 .site-main p {
   max-width: 65ch;
 }
 
-.site-main p:has(img) {
-  max-width: none;
-}
-
 .site-main ul,
 .site-main ol,
-.site-main li,
-.site-main h1,
-.site-main h2,
-.site-main h3 {
+.site-main li {
   max-width: none;
 }

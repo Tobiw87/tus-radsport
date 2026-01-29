@@ -4,14 +4,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} · {{ site.title }}</title>
+
   <link rel="icon"
         href="{{ '/assets/images/logo.png' | relative_url }}"
         type="image/png">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -20,7 +24,8 @@
              src="{{ '/assets/images/logo.png' | relative_url }}"
              alt="{{ site.title }} – Startseite">
       </a>
-      <nav class="nav">
+
+      <nav class="nav" aria-label="Hauptnavigation">
         <a href="{{ '/about' | relative_url }}">Über uns</a>
         <a href="{{ '/termine' | relative_url }}">Termine</a>
         <a href="{{ '/news' | relative_url }}">News</a>
@@ -29,17 +34,20 @@
       </nav>
     </div>
   </header>
+
   <main class="site-main">
     <div class="wrap layout-2col">
-      <aside class="sidebar">
+      <aside class="sidebar" aria-label="Seitenleiste">
         {% include sidebar.html %}
       </aside>
+
       <section class="content">
         <h1>{{ page.title }}</h1>
         {{ content }}
       </section>
     </div>
   </main>
+
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-meta">
@@ -47,7 +55,8 @@
           Der Radsport ist eine Abteilung des TuS Jahn Werdohl e. V.
         </span>
       </div>
-      <nav class="footer-nav">
+
+      <nav class="footer-nav" aria-label="Footer-Navigation">
         <a href="https://www.tusjahnwerdohl.de/impressum-.html"
            target="_blank" rel="noopener noreferrer">
           Impressum
