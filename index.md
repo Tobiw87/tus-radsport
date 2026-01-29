@@ -24,13 +24,6 @@ Bei uns steht das **gemeinsame Fahren** im Mittelpunkt
 
 ---
 
-### Radsport, wie wir ihn leben
-
-Ob nach Feierabend durch die heimischen Wälder, bei einer gemeinsamen Rennradrunde oder im Trainingslager – wir sind gerne zusammen unterwegs.
-Der Schwächste bestimmt das Tempo, niemand wird zurückgelassen.
-
----
-
 ## 👉 **Neugierig?**  
 
 <div class="card-grid">
