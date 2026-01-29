@@ -5,6 +5,7 @@ title: "Termine"
 
 Im Laufe des Jahres gibt es bei uns einige **feste Termine**, die das Vereinsleben prägen.  
 Unsere Mitglieder kennen diese Termine – sie stehen für Austausch, Planung und gemeinsames Erleben rund um den Radsport.
+Sie geben unserem Vereinsjahr Struktur und sind fester Bestandteil unseres gemeinsamen Miteinanders.
 
 ---
 

@@ -22,6 +22,7 @@ Die Trainingsfahrten führen uns **2 bis 3 Stunden** durch die heimischen Wälde
 unterwegs – überwiegend jedoch direkt **in und um Werdohl**.
 
 Am Ende einer typischen Ausfahrt stehen meist **rund 30 Kilometer** und ein **durchschnittliches Tempo von etwa 15 km/h** auf dem Tacho. Dabei gilt immer: Die Gruppe bleibt zusammen.
+Unsere Trainingsfahrten sind **keine Rennen**, sondern gemeinsame Ausfahrten mit sportlichem Anspruch.
 
 ---
 
