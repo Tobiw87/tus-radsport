@@ -320,10 +320,18 @@ h2 { font-weight: 600; }
 
   .nav {
     display: none;
+    position: absolute;
+    top: var(--header-height);
+    left: 0;
     width: 100%;
-    margin-top: 12px;
+
+    background: #8E8C92;
+    padding: 16px;
+
     flex-direction: column;
     gap: 12px;
+
+    border-bottom: 1px solid rgba(255,255,255,0.15);
   }
 
   .nav a {
@@ -336,9 +344,10 @@ h2 { font-weight: 600; }
 
   .nav-toggle {
     display: block;
+    margin-left: auto;
   }
 
   .header-inner {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
   }
 }
