@@ -30,7 +30,7 @@ body {
 .wrap {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0;
 }
 
 /* =========================
@@ -97,7 +97,7 @@ body {
 
 .site-main {
   flex: 1;
-  padding: 16px 0;
+  padding: 16px 16px;
 }
 
 /* Grid-Gerüst innerhalb deines .wrap */
@@ -197,7 +197,7 @@ body {
    ========================= */
 
 .site-footer {
-  margin: 24px 0;
+  margin: 24px 16px;
 }
 
 .site-footer .wrap {
