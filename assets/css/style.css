@@ -181,6 +181,17 @@ body {
   padding-left: 18px;
 }
 
+.sidebar a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.sidebar a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 /* =========================
    Footer
    ========================= */
@@ -255,14 +266,16 @@ img {
   background: #fff;
   border-radius: 10px;
   text-decoration: none;
-  color: inherit;
+  color: #8E8C92;
 
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+
 .card h3 {
   margin-top: 0;
+  color: #6f6d72; 
   margin-bottom: 8px;
 }
 
