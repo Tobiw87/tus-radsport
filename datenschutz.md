@@ -20,7 +20,7 @@ Vertreten durch den Vorstand des Hauptvereins gemäß § 26 BGB.
   E-Mail:
   <a href="mailto:schlotmann@t-online.de">
     schlotmann@t-online.de
-  </a>
+  </a><br>
   Internet:
   <a href="https://www.tusjahnwerdohl.de"
      target="_blank" rel="noopener noreferrer">
