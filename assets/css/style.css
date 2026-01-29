@@ -197,7 +197,7 @@ body {
    ========================= */
 
 .site-footer {
-  margin: 24px 16px;
+  margin: 24px 0;
 }
 
 .site-footer .wrap {
@@ -330,22 +330,25 @@ h2 {
 
 .page-overlay {
   position: relative;
-  max-width: var(--max-width);
-  margin: 0 auto;
+  flex: 1;
 }
 
-/* der dunkle Schleier */
 .page-overlay::before {
   content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.6); /* 60% schwarz */
+  position: fixed;  
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: var(--max-width);
+  height: 100vh;  
+  background: rgba(0,0,0,0.6);
   border-radius: 10px;
-  z-index: 1;
+  z-index: 500;   
+  pointer-events: none; 
 }
 
-/* eigentlicher Inhalt liegt darüber */
 .page-content {
   position: relative;
-  z-index: 2;
+  z-index: 600;  
 }
