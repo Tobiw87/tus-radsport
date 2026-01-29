@@ -112,6 +112,10 @@ a:hover {
   z-index: 1000;
 }
 
+.site-header .wrap {
+  position: relative;
+}
+
 .header-inner {
   height: 100%;
   display: flex;
@@ -323,7 +327,7 @@ h2 { font-weight: 600; }
     position: absolute;
     top: var(--header-height);
     left: 0;
-    width: 100%;
+    width: 0;
 
     background: #8E8C92;
     padding: 16px;
