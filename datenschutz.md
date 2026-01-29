@@ -1,4 +1,3 @@
-# Datenschutzerklärung
 
 ## 1. Verantwortlicher
 

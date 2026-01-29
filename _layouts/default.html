@@ -37,11 +37,21 @@
   </main>
   <footer class="site-footer">
     <div class="wrap footer-inner">
-      <small>© {{ "now" | date: "%Y" }} {{ site.title }}</small>
-      <small class="footer-note">Die Abteilung Radsport ist eine Abteilung des Turn- und Sportvereins Jahn Werdohl e. V.</small>
-      <a class="footer-link" href="https://www.tusjahnwerdohl.de/impressum-.html" target="_blank" rel="noopener noreferrer">Impressum</a>
-      |
-      <a class="footer-link" href="{{ '/datenschutz' | relative_url }}">Datenschutz</a>
+      <div class="footer-meta">
+        <span class="footer-note">
+          Abteilung Radsport des Turn- und Sportvereins Jahn Werdohl e. V.
+        </span>
+      </div>
+      <nav class="footer-nav">
+        <a href="https://www.tusjahnwerdohl.de/impressum-.html"
+           target="_blank" rel="noopener noreferrer">
+          Impressum
+        </a>
+        <span class="footer-sep">·</span>
+        <a href="{{ '/datenschutz' | relative_url }}">
+          Datenschutz
+        </a>
+      </nav>
     </div>
   </footer>
 </body>

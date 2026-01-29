@@ -118,9 +118,7 @@ body {
    ========================= */
 
 .site-footer {
-  margin: 24px 0;  
-  background: transparent; 
-  border-top: none;   
+  margin: 24px 0;
 }
 
 .site-footer .wrap {
@@ -132,28 +130,36 @@ body {
 
 .footer-inner {
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-content: flex-start;
+  gap: 16px;
+  flex-wrap: wrap;
 }
 
-.site-footer small {
-  font-size: 0.9rem;
-  opacity: 0.8;
-}
-
-.footer-link {
-  margin-left: 24px;
-  text-decoration: none;
-  font-size: 0.9rem;
-  color: inherit;
+.footer-meta,
+.footer-nav {
+  font-size: 0.85rem;
   opacity: 0.75;
 }
 
-.footer-link:hover {
-  opacity: 1;
+.footer-nav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-nav a:hover {
   text-decoration: underline;
 }
 
+.footer-sep {
+  opacity: 0.4;
+}
 
 /* =========================
    Media
