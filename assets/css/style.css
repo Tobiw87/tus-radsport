@@ -118,6 +118,7 @@ a:hover {
 
 .header-inner {
   height: 100%;
+  position: relative;
   display: flex;
   align-items: center;
   gap: 24px;
@@ -327,7 +328,7 @@ h2 { font-weight: 600; }
     position: absolute;
     top: var(--header-height);
     left: 0;
-    width: 0;
+    right: 0;
 
     background: #8E8C92;
     padding: 16px;
