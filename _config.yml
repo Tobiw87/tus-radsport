@@ -18,6 +18,8 @@ footer:
 
 # Header-Navigation
 navigation:
+  - title: "Home"
+    url: "/"
   - title: "Über uns"
     url: "/about"
   - title: "Termine"
