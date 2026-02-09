@@ -260,6 +260,7 @@ a:hover {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 24px 16px;
+  color: var(--text-main);
 }
 
 .footer-inner {
@@ -268,7 +269,7 @@ a:hover {
   gap: 16px;
   flex-wrap: wrap;
   font-size: 0.85rem;
-  opacity: 0.75;
+  opacity: 1;
 }
 
 /* =========================
