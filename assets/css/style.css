@@ -10,7 +10,6 @@
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 
   --bg-card: rgba(18,139,243,0.50);
-  --bg-footer: #fafafa;
 
   --border-soft: 1px solid rgba(255,255,255,0.10);
 
@@ -257,7 +256,7 @@ a:hover {
 }
 
 .site-footer .wrap {
-  background: var(--bg-footer);
+  background: var(--bg-card);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 24px 16px;
