@@ -18,7 +18,7 @@ Ambitionierte Freizeit-Truppe (MTB, am Rand auch Rennrad).
     style="display:inline-block;padding:14px 18px;border-radius:10px;background:#fff;color:#128bf3;font-weight:700;text-decoration:none;"
     rel="noopener noreferrer"
   >
-    JETZT PROBEFAHRT ANFRAGEN (WhatsApp)
+    JETZT ANFRAGEN (WhatsApp)
   </a>
 </p>
 
@@ -57,6 +57,6 @@ Wenn du unsicher bist (Tempo, Rad, Fitness, Reifen, etc.): **WhatsApp** reicht.
     style="display:inline-block;padding:14px 18px;border-radius:10px;background:#fff;color:#128bf3;font-weight:700;text-decoration:none;"
     rel="noopener noreferrer"
   >
-    JETZT PROBEFAHRT ANFRAGEN (WhatsApp)
+    JETZT ANFRAGEN (WhatsApp)
   </a>
 </p>

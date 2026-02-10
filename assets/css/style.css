@@ -356,3 +356,22 @@ h2 { font-weight: 600; }
     flex-wrap: nowrap;
   }
 }
+
+/* CTA Button (Sidebar + Content) */
+.cta-btn {
+  display: block;
+  padding: 14px 16px;
+  border-radius: 10px;
+  background: #128bf3;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cta-btn:visited { color: #fff; }
+
+.cta-btn:hover {
+  text-decoration: none; /* verhindert Underline vom globalen a:hover */
+  filter: brightness(1.05);
+}
