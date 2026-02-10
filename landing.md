@@ -29,7 +29,7 @@ Ambitionierte Freizeit-Truppe (MTB, am Rand auch Rennrad).
 1. Du schreibst kurz per WhatsApp.
 2. Wir bestätigen Treffpunkt & Strecke.
 3. Du fährst ungezwungen mit.
-4. Danach: Wenn’s passt, kommst du öfter mit – Mitgliedschaft später.
+4. Danach: Wenn’s passt, kommst du öfter mit.
 
 ---
 
