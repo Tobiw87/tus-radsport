@@ -3,7 +3,6 @@ layout: default
 title: MTB Werdohl
 ---
 
-# MTB Werdohl
 ## Fahr mit. Werde besser. Hab Spaß.
 
 Ambitionierte Freizeit-Truppe (MTB, am Rand auch Rennrad).  
