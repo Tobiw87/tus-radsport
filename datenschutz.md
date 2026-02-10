@@ -11,7 +11,7 @@ Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 **TuS Jahn Werdohl e.V.**  
 Abteilung Radsport  
 Postfach 1771  
-58777 Werdohl  
+58791 Werdohl  
 Tel. 02392 180295  
 
 Vertreten durch den Vorstand des Hauptvereins gemäß § 26 BGB.
