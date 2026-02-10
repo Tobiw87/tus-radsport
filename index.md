@@ -1,30 +1,73 @@
 ---
 layout: default
 title: Radsport in Werdohl
-
----
-## - ohne Leistungsdruck, mit Spaß am Fahren.
-
-<img class="hero" src="{{ '/assets/images/hero.jpeg' | relative_url }}" alt="Hero">
-
-## Gemeinsam auf dem Rad unterwegs
-
-Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.**  
-Bei uns steht das **gemeinsame Fahren** im Mittelpunkt 
-– ohne Leistungsdruck, aber mit sportlichem Anspruch.
-
 ---
 
-### Was uns ausmacht
+<img class="hero" src="{{ '/assets/images/hero.jpeg' | relative_url }}" alt="Gemeinsam auf dem Rad">
 
-- 🚴‍♂️ **MTB- & Rennradgruppen**  
-- 🤝 **Gemeinschaft statt Wettkampf**  
-- 🗓️ **Regelmäßige Trainings & gemeinsame Termine**  
+# Fahr mit. Werde besser. Hab Spaß.
+
+Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.** – MTB & Rennrad.  
+Bei uns zählt: **Gemeinsam fahren, niemand bleibt zurück.**
+
+<div class="cta-row">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+    Jetzt anfragen (WhatsApp)
+  </a>
+  <a class="cta-btn secondary" href="#probefahrt">
+    Erstmal reinschnuppern
+  </a>
+</div>
+
+<p class="quick-facts">
+  <strong>Sonntag 10:00</strong> · <strong>Treffpunkt:</strong> Brüninghausplatz, Werdohl
+</p>
+
+---
+
+## Was uns ausmacht
+
+- 🚴‍♂️ **MTB- & Rennradgruppen**
+- 🤝 **Gemeinschaft statt Wettkampf**
+- 🗓️ **Regelmäßige Trainings & gemeinsame Termine**
 - 👋 **Gäste jederzeit willkommen**
 
 ---
 
-## 👉 **Neugierig?**  
+## So läuft die Probefahrt ab {#probefahrt}
+
+1. Du schreibst kurz per WhatsApp.
+2. Wir bestätigen Treffpunkt & Strecke.
+3. Du fährst ungezwungen mit.
+4. Danach: Wenn’s passt, kommst du öfter mit.
+
+<div class="cta-row">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+    Probefahrt anfragen
+  </a>
+  <a class="cta-btn secondary" href="{{ '/training' | relative_url }}">
+    Trainingszeiten ansehen
+  </a>
+</div>
+
+---
+
+## Was dich erwartet
+
+- Touren im Sauerland / Umgebung, je nach Wetter & Saison
+- Uphill/Downhill je nach Strecke, **kein Wegfahren** – wir sammeln wieder ein
+- Helm Pflicht, Ersatzschlauch/Plug empfohlen
+
+---
+
+## Passt das zu dir?
+
+Wenn du **regelmäßig MTB fährst** (oder Rennrad im Verein fahren willst) und Lust auf eine ambitionierte Runde hast –
+ohne alleingelassen zu werden – passt du rein.
+
+---
+
+## Mehr entdecken
 
 <div class="card-grid">
 
@@ -45,3 +88,12 @@ Bei uns steht das **gemeinsame Fahren** im Mittelpunkt
 
 </div>
 
+---
+
+## Noch Fragen?
+
+Wenn du unsicher bist (Tempo, Rad, Fitness, Reifen, etc.): **WhatsApp reicht.**
+
+<a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+  Jetzt anfragen (WhatsApp)
+</a>
