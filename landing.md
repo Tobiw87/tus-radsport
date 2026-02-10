@@ -50,3 +50,13 @@ Wenn du **regelmäßig MTB fährst** und Lust auf eine ambitionierte Runde hast 
 ## Noch Fragen?
 
 Wenn du unsicher bist (Tempo, Rad, Fitness, Reifen, etc.): **WhatsApp** reicht.
+
+<p style="margin: 14px 0 22px;">
+  <a
+    href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F"
+    style="display:inline-block;padding:14px 18px;border-radius:10px;background:#fff;color:#128bf3;font-weight:700;text-decoration:none;"
+    rel="noopener noreferrer"
+  >
+    JETZT PROBEFAHRT ANFRAGEN (WhatsApp)
+  </a>
+</p>
