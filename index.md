@@ -14,7 +14,7 @@ Bei uns zählt: **Gemeinsam fahren, niemand bleibt zurück.**
   <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Jetzt anfragen (WhatsApp)
   </a>
-  <a class="cta-btn secondary" href="#probefahrt">
+  <a class="cta-btn" href="#probefahrt">
     Erstmal reinschnuppern
   </a>
 </div>
@@ -45,7 +45,7 @@ Bei uns zählt: **Gemeinsam fahren, niemand bleibt zurück.**
   <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Probefahrt anfragen
   </a>
-  <a class="cta-btn secondary" href="{{ '/training' | relative_url }}">
+  <a class="cta-btn" href="{{ '/training' | relative_url }}">
     Trainingszeiten ansehen
   </a>
 </div>
