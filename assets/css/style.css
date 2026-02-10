@@ -375,3 +375,18 @@ h2 { font-weight: 600; }
   text-decoration: none; /* verhindert Underline vom globalen a:hover */
   filter: brightness(1.05);
 }
+
+/* Sidebar CTA: invertiert für Kontrast auf blauem Sidebar-Background */
+.sidebar .cta-btn {
+  background: #ffffff;
+  color: #128bf3;
+  border: 1px solid rgba(255,255,255,0.35);
+}
+
+.sidebar .cta-btn:visited {
+  color: #128bf3;
+}
+
+.sidebar .cta-btn:hover {
+  filter: brightness(0.98);
+}
