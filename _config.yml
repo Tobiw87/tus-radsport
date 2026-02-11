@@ -35,7 +35,7 @@ navigation:
   - title: "Rennrad"
     url: "/rennrad"
   - title: "Events"
-    url: "/events"
+    url: "/event"
 
 sidebar:
   training:
