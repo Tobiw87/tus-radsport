@@ -64,7 +64,7 @@ title: Radsport in Werdohl
 
 - Touren im Sauerland / Umgebung, je nach Wetter & Saison
 - Uphill/Downhill je nach Strecke, **kein Wegfahren** – wir sammeln wieder ein
-- Helm Pflicht, Ersatzschlauch/Plug empfohlen
+- Helm Pflicht, Ersatzschlauch sehr empfohlen
 
 ---
 
