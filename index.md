@@ -8,12 +8,12 @@ title: Radsport in Werdohl
 <section class="hero">
 <h2> Fahr mit. Werde besser. Hab Spaß. </h2>
 <p>
-    Wir sind die <strong>Radsportabteilung des TuS Jahn Werdohl e.V.</strong> – MTB & Rennrad.<br>
-    Bei uns zählt: <strong>Gemeinsam fahren, niemand bleibt zurück.</strong>
+    Wir sind die <strong>Radsportabteilung des TuS Jahn Werdohl e.V.</strong> – MTB & Rennrad<br>
+    Bei uns zählt: <strong>Gemeinsam fahren, niemand bleibt zurück</strong>
 </p>
 
 <div class="cta-row">
-  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Jetzt anfragen (WhatsApp)
   </a>
   <p>
@@ -25,7 +25,7 @@ title: Radsport in Werdohl
 </div>
 
 <p class="quick-facts">
-  <strong>Dienstag 10:00</strong> · <strong>Treffpunkt:</strong> Brüninghausplatz, Werdohl
+  <strong>Dienstag 18:00</strong> · <strong>Treffpunkt:</strong> Brüninghausplatz, Werdohl
 </p>
 </section>
 
@@ -43,14 +43,17 @@ title: Radsport in Werdohl
 ## So läuft die Probefahrt ab {#probefahrt}
 
 1. Du schreibst kurz per WhatsApp.
-2. Wir bestätigen Treffpunkt & Strecke.
+2. Wir bestätigen Treffpunkt & Uhrzeit.
 3. Du fährst ungezwungen mit.
 4. Danach: Wenn’s passt, kommst du öfter mit.
 
 <div class="cta-row">
-  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Probefahrt anfragen
   </a>
+    <p>
+  oder alternative
+  </p>
   <a class="cta-btn" href="{{ '/training' | relative_url }}">
     Trainingszeiten ansehen
   </a>
