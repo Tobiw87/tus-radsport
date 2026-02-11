@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 <ul>
-{% assign items = site.events | sort: "event_date" | reverse %}
+{% assign items = site.event | sort: "event_date" | reverse %}
 {% for item in items %}
   <li>
     <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
