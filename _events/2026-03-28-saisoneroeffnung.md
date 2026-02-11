@@ -6,7 +6,7 @@ type: saisoneroeffnung
 permalink: /events/2026-03-28-saisoneroeffnung/
 ---
 
-# Saisoneröffnung 28.03.2026
+# Saisoneröffnung 28.03.20261
 
 Kurze Beschreibung.
 
