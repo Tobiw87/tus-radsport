@@ -357,7 +357,12 @@ h2 { font-weight: 600; }
   }
 }
 
-/* CTA Button (Sidebar + Content) */
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
 .cta-btn {
   display: block;
   padding: 14px 16px;
@@ -371,12 +376,17 @@ h2 { font-weight: 600; }
 
 .cta-btn:visited { color: #fff; }
 
+.cta-separator {
+  flex-basis: 100%;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
 .cta-btn:hover {
-  text-decoration: none; /* verhindert Underline vom globalen a:hover */
+  text-decoration: none; 
   filter: brightness(1.05);
 }
 
-/* Sidebar CTA: invertiert für Kontrast auf blauem Sidebar-Background */
 .sidebar .cta-btn {
   background: #ffffff;
   color: #128bf3;

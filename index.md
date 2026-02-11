@@ -51,9 +51,7 @@ title: Radsport in Werdohl
   <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Probefahrt anfragen
   </a>
-    <p>
-  oder alternative
-  </p>
+<p class="cta-separator">oder</p>
   <a class="cta-btn" href="{{ '/training' | relative_url }}">
     Trainingszeiten ansehen
   </a>
@@ -103,6 +101,6 @@ ohne alleingelassen zu werden – passt du rein.
 
 Wenn du unsicher bist (Tempo, Rad, Fitness, Reifen, etc.): **WhatsApp reicht.**
 
-<a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Sonntag%2010%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+<a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F"  rel="noopener noreferrer">
   Jetzt anfragen (WhatsApp)
 </a>
