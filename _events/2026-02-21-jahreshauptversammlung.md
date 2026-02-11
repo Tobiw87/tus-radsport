@@ -2,7 +2,7 @@
 layout: default
 title: Jahreshauptversammlung 21.02.2026
 date: 2026-02-21
-type: Jahreshauptversammlung
+type: jahreshauptversammlung
 ---
 
 # Jahreshauptversammlung 21.02.2026
