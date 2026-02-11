@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Events
+permalink: /events/
 ---
 
-
 <ul>
-{% raw %}
 {% assign items = site.events | sort: "date" | reverse %}
 {% for item in items %}
   <li>
@@ -13,5 +12,4 @@ title: Events
     – {{ item.date | date: "%d.%m.%Y" }}
   </li>
 {% endfor %}
-{% endraw %}
 </ul>
