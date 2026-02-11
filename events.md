@@ -8,7 +8,7 @@ permalink: /events/
 {% assign items = site.events | sort: "date" | reverse %}
 {% for item in items %}
   <li>
-    <a href="{{ item.url }}">{{ item.title }}</a>
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
   </li>
 {% endfor %}
 </ul>
