@@ -19,7 +19,7 @@ title: Radsport in Werdohl
   <p>
   oder
   </p>
-  <a class="cta-btn" href="#probefahrt">
+  <a class="cta-btn" href="#reinschnuppern">
     Erstmal reinschnuppern
   </a>
 </div>
@@ -40,7 +40,7 @@ title: Radsport in Werdohl
 
 ---
 
-## So läuft die Probefahrt ab {#probefahrt}
+## So läuft die Probefahrt ab
 
 1. Du schreibst kurz per WhatsApp.
 2. Wir bestätigen Treffpunkt & Uhrzeit.
@@ -74,7 +74,7 @@ ohne alleingelassen zu werden – passt du rein.
 
 ---
 
-## Mehr entdecken
+## Mehr entdecken {#reinschnuppern}
 
 <div class="card-grid">
 
