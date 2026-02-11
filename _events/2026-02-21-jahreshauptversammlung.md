@@ -3,6 +3,7 @@ layout: default
 title: Jahreshauptversammlung 21.02.2026
 date: 2026-02-21
 type: jahreshauptversammlung
+permalink: /events/2026-02-21-jahreshauptversammlung/
 ---
 
 # Jahreshauptversammlung 21.02.2026

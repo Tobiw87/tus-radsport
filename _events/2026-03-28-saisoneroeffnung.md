@@ -3,6 +3,7 @@ layout: default
 title: Saisoneröffnung 28.03.2026
 date: 2026-03-28
 type: saisoneroeffnung
+permalink: /events/2026-03-28-saisoneroeffnung/
 ---
 
 # Saisoneröffnung 28.03.2026
