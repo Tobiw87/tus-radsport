@@ -390,3 +390,7 @@ h2 { font-weight: 600; }
 .sidebar .cta-btn:hover {
   filter: brightness(0.98);
 }
+
+.hero {
+  text-align: center;
+}
