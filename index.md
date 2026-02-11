@@ -5,7 +5,7 @@ title: Radsport in Werdohl
 
 <img class="hero" src="{{ '/assets/images/hero.jpeg' | relative_url }}" alt="Gemeinsam auf dem Rad">
 
-<section class="hero">
+<section class="oder">
 <h2> Fahr mit. Werde besser. Hab Spaß. </h2>
 <p>
     Wir sind die <strong>Radsportabteilung des TuS Jahn Werdohl e.V.</strong> – MTB & Rennrad<br>
