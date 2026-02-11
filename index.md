@@ -8,8 +8,9 @@ title: Radsport in Werdohl
 <section class="oder">
 <h2> Fahr mit. Werde besser. Hab Spaß. </h2>
 <p>
-    Wir sind die <strong>Radsportabteilung des TuS Jahn Werdohl e.V.</strong> – MTB & Rennrad<br>
-    Bei uns zählt: <strong>Gemeinsam fahren, niemand bleibt zurück</strong>
+    Wir sind die <strong>Radsportabteilung des TuS Jahn Werdohl e.V.</strong> <br>
+    Bei uns zählt: <strong>Gemeinsam fahren, niemand bleibt zurück</strong> <br>
+    egal ob Rennrad, MTB oder E-Bike
 </p>
 
 <div class="cta-row">
