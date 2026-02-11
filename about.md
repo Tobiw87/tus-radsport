@@ -21,6 +21,11 @@ Ein fester Bestandteil ist unsere **MTB-Gruppe**. Hier gilt ein einfaches Prinzi
 
 So bleibt die Gruppe zusammen, niemand wird zurückgelassen und der Spaß steht immer im Vordergrund.
 
+<div class="cta-row">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+    Probefahrt anfragen
+  </a>
+
 ---
 
 ## Training & Aktivitäten
@@ -43,3 +48,8 @@ Wer Lust auf ehrlichen Radsport, entspannte Atmosphäre und eine offene Gemeinsc
 
 **Neugierig geworden?**  
 Dann fahr einfach mit – wir freuen uns auf dich.
+
+<div class="cta-row">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
+    Probefahrt anfragen
+  </a>
