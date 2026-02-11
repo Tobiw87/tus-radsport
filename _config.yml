@@ -28,8 +28,8 @@ navigation:
     url: "/training"
   - title: "Rennrad"
     url: "/rennrad"
-  - title: "Collection"
-    url: "/collection"
+  - title: "Events"
+    url: "/events"
 
 sidebar:
   training:

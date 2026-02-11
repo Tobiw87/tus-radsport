@@ -3,7 +3,6 @@ layout: default
 title: Events
 ---
 
-# Events
 
 <ul>
 {% raw %}
