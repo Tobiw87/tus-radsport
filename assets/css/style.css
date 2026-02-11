@@ -382,8 +382,6 @@ h2 { font-weight: 600; }
   text-decoration: none;
 }
 
-.cta-btn:visited { color: #fff; }
-
 .cta-separator {
   flex-basis: 100%;
   text-align: center;
