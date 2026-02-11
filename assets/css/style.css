@@ -396,3 +396,19 @@ h2 { font-weight: 600; }
 .oder {
   text-align: center;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 18px 0;
+}
+
+.gallery a { text-decoration: none; }
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}

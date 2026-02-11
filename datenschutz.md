@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Datenschutz
-
 ---
 
 ## 1. Verantwortlicher
@@ -16,35 +15,26 @@ Tel. 02392 180295
 
 Vertreten durch den Vorstand des Hauptvereins gemäß § 26 BGB.
 
-<p>
-  E-Mail:
-  <a href="mailto:schlotmann@t-online.de">
-    schlotmann@t-online.de
-  </a><br>
-  Internet:
-  <a href="https://www.tusjahnwerdohl.de"
-     target="_blank" rel="noopener noreferrer">
-    www.tusjahnwerdohl.de
-  </a>
-</p>
+E-Mail: schlotmann@t-online.de  
+Internet: https://www.tusjahnwerdohl.de
 
 ---
 
 ## 2. Allgemeines zur Datenverarbeitung
 
 Der Schutz personenbezogener Daten ist uns wichtig.  
-Diese Website dient ausschließlich der Information über die Abteilung Radsport und ist als **statische Informationsseite** ausgeführt.
+Diese Website dient der Information über die Abteilung Radsport des TuS Jahn Werdohl e.V. und ist technisch als statische Website umgesetzt.
 
-Wir verarbeiten personenbezogene Daten nur, soweit dies technisch erforderlich ist oder eine gesetzliche Grundlage besteht.
+Personenbezogene Daten werden nur verarbeitet, soweit dies technisch erforderlich ist oder eine gesetzliche Grundlage besteht.
 
 ---
 
 ## 3. Hosting der Website (GitHub Pages)
 
-Diese Website wird über den Dienst **GitHub Pages** betrieben.  
+Diese Website wird über **GitHub Pages** betrieben.  
 Anbieter ist:
 
-**GitHub, Inc.**  
+GitHub, Inc.  
 88 Colin P. Kelly Jr. St.  
 San Francisco, CA 94107  
 USA
@@ -53,77 +43,118 @@ Beim Aufruf der Website verarbeitet GitHub technisch notwendige Daten, insbesond
 
 - IP-Adresse  
 - Datum und Uhrzeit des Zugriffs  
-- Browser- und Betriebssysteminformationen  
+- Browsertyp und Browserversion  
+- Betriebssystem  
+- Referrer-URL  
 - aufgerufene Seiten
 
-Diese Daten werden zur **Bereitstellung, Sicherheit und Stabilität** der Website verwendet.  
-Der Betreiber dieser Website hat **keinen direkten Zugriff** auf diese Daten.
+Diese Verarbeitung erfolgt zur Bereitstellung, Sicherheit und Stabilität der Website.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer sicheren und funktionsfähigen Bereitstellung der Website).
+
+Der Betreiber dieser Website hat keinen direkten Zugriff auf diese Server-Logdaten.
 
 ---
 
-## 4. Rechtsgrundlage der Verarbeitung
-
-Die Verarbeitung erfolgt auf Grundlage von  
-**Art. 6 Abs. 1 lit. f DSGVO** (berechtigtes Interesse).
-
-Das berechtigte Interesse besteht in der sicheren und zuverlässigen Bereitstellung dieser Website.
-
----
-
-## 5. Datenübermittlung in Drittländer
+## 4. Datenübermittlung in Drittländer
 
 GitHub verarbeitet Daten auch in den USA.  
-Die Übermittlung personenbezogener Daten erfolgt auf Grundlage der von der Europäischen Union genehmigten **Standardvertragsklauseln**, die ein angemessenes Datenschutzniveau sicherstellen sollen.
+Die Übermittlung erfolgt auf Grundlage geeigneter Garantien gemäß Art. 46 DSGVO, insbesondere durch Standardvertragsklauseln.
+
+---
+
+## 5. Einbindung von Google Fonts
+
+Auf dieser Website werden Schriftarten („Google Fonts“) verwendet, die von Google bereitgestellt werden.
+
+Anbieter ist:  
+Google Ireland Limited  
+Gordon House, Barrow Street  
+Dublin 4, Irland
+
+Beim Aufruf einer Seite lädt der Browser die benötigten Schriftarten direkt von Google-Servern. Dabei können insbesondere folgende Daten an Google übermittelt werden:
+
+- IP-Adresse  
+- Browserinformationen  
+- Datum und Uhrzeit des Zugriffs
+
+Die Einbindung erfolgt zur einheitlichen und ansprechenden Darstellung der Website.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer optisch konsistenten Darstellung).
 
 ---
 
 ## 6. Externe Links
 
-Diese Website enthält Links zu externen Websites Dritter (z. B. Hauptverein, Verbände oder Veranstalter).
+Diese Website enthält Links zu externen Websites Dritter (z. B. Hauptverein, WhatsApp, Instagram).
 
-Beim Anklicken eines solchen Links verlässt du diese Website.  
-Für die Inhalte und die Datenverarbeitung auf den verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich.
-
-Zum Zeitpunkt der Verlinkung waren keine Rechtsverstöße erkennbar.
+Beim Anklicken eines externen Links verlässt du diese Website.  
+Für die Inhalte und die Datenverarbeitung auf den verlinkten Seiten ist ausschließlich der jeweilige Anbieter verantwortlich.
 
 ---
 
-## 7. Cookies, Tracking und Analyse
+## 7. Kontaktaufnahme per E-Mail
+
+Eine Kontaktaufnahme ist über die angegebene E-Mail-Adresse möglich.
+
+In diesem Fall werden die übermittelten personenbezogenen Daten (z. B. Name, E-Mail-Adresse, Inhalt der Nachricht) ausschließlich zur Bearbeitung der Anfrage verwendet.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen) oder Art. 6 Abs. 1 lit. f DSGVO.
+
+---
+
+## 8. Kontaktaufnahme über WhatsApp
+
+Auf dieser Website ist ein Link zur Kontaktaufnahme über **WhatsApp** eingebunden.
+
+Anbieter ist:  
+WhatsApp Ireland Limited  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2, Irland
+
+Beim Anklicken des WhatsApp-Links werden Daten an WhatsApp übermittelt. Dazu können insbesondere gehören:
+
+- IP-Adresse  
+- Zeitpunkt des Klicks  
+- ggf. übermittelte Telefonnummer  
+- Inhalte der Kommunikation
+
+Die Nutzung von WhatsApp erfolgt freiwillig. Alternativ kann jederzeit eine Kontaktaufnahme per E-Mail erfolgen.
+
+Weitere Informationen zur Datenverarbeitung durch WhatsApp findest du in der Datenschutzerklärung von WhatsApp.
+
+---
+
+## 9. Cookies, Tracking und Analyse
 
 Diese Website verwendet:
 
-- keine Cookies zu Analyse- oder Marketingzwecken  
+- keine Analyse- oder Marketing-Cookies  
 - keine Tracking- oder Statistikdienste (z. B. Google Analytics)  
 - keine Social-Media-Plugins  
-- keine eingebetteten Inhalte von Drittanbietern
+
+Es werden lediglich technisch notwendige Verbindungen im Rahmen des Hostings aufgebaut.
 
 ---
 
-## 8. Kontaktaufnahme
-
-Diese Website stellt **kein Kontaktformular** bereit.
-
-Eine Kontaktaufnahme ist ausschließlich über die angegebenen E-Mail-Adressen möglich.  
-In diesem Fall werden die übermittelten Daten nur zur Bearbeitung der Anfrage verwendet und nicht ohne Einwilligung weitergegeben.
-
----
-
-## 9. Rechte der betroffenen Personen
+## 10. Rechte der betroffenen Personen
 
 Du hast das Recht:
 
 - Auskunft über deine gespeicherten personenbezogenen Daten zu erhalten  
 - Berichtigung unrichtiger Daten zu verlangen  
-- die Löschung deiner Daten zu verlangen  
-- die Einschränkung der Verarbeitung zu verlangen  
+- Löschung deiner Daten zu verlangen  
+- Einschränkung der Verarbeitung zu verlangen  
 - der Verarbeitung zu widersprechen  
+- Beschwerde bei einer zuständigen Aufsichtsbehörde einzulegen  
 
 Zur Wahrnehmung deiner Rechte genügt eine formlose Mitteilung an die oben genannte Kontaktadresse.
 
 ---
 
-## 10. Aktualität dieser Datenschutzerklärung
+## 11. Aktualität dieser Datenschutzerklärung
 
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand: **02/2026**.
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand: 02/2026.
 
 Bei Änderungen der Website oder der rechtlichen Vorgaben wird diese Datenschutzerklärung entsprechend angepasst.

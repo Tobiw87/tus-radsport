@@ -1,7 +1,6 @@
 title: "TuS Jahn Werdohl – Abteilung Radsport"
 lang: "de"
 
-# Zentrale Links & Kontakt (einmal ändern, überall aktuell)
 contact:
   name: "Tobias Withalm"
   phone_display: "0160 8226897"
@@ -16,7 +15,6 @@ links:
 footer:
   note: "Der Radsport ist eine Abteilung des TuS Jahn Werdohl e. V."
 
-# Header-Navigation
 navigation:
   - title: "Home"
     url: "/"
@@ -30,8 +28,9 @@ navigation:
     url: "/training"
   - title: "Rennrad"
     url: "/rennrad"
+  - title: "Collection"
+    url: "/collection"
 
-# Sidebar-Inhalte
 sidebar:
   training:
     title: "Trainingszeiten"
@@ -55,3 +54,8 @@ sidebar:
     title: "Du möchtest mitfahren?"
     intro: "Melde dich einfach bei"
     outro: "per WhatsApp oder Anruf"
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
