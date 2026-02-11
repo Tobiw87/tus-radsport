@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jahreshauptversammlung 21.02.2026
-date: 2026-02-21
+event_date: 2026-21-02
 type: jahreshauptversammlung
 permalink: /events/2026-02-21-jahreshauptversammlung/
 ---
