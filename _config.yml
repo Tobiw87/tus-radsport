@@ -1,6 +1,11 @@
 title: "TuS Jahn Werdohl – Abteilung Radsport"
 lang: "de"
 
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
+
 contact:
   name: "Tobias Withalm"
   phone_display: "0160 8226897"
@@ -54,8 +59,3 @@ sidebar:
     title: "Du möchtest mitfahren?"
     intro: "Melde dich einfach bei"
     outro: "per WhatsApp oder Anruf"
-
-collections:
-  events:
-    output: true
-    permalink: /events/:name/
