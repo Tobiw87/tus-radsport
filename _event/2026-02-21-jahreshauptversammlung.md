@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Saisoneröffnung 28.03.2026
-event_date: 2026-03-28
-type: saisoneroeffnung
-permalink: /events/2026-03-28-saisoneroeffnung/
+title: Jahreshauptversammlung 21.02.2026
+event_date: 2026-01-02
+type: jahreshauptversammlung
+permalink: /event/2026-02-21-jahreshauptversammlung/
 ---
 
-# Saisoneröffnung 28.03.20261
-
-Kurze Beschreibung.
 
 <div class="gallery">
   <img src="/assets/images/events/2026-03-28-training/001.jpeg">

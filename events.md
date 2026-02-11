@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-permalink: /alle-events/
+permalink: /event/
 ---
 
 <ul>
