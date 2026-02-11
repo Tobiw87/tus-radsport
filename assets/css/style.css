@@ -395,20 +395,6 @@ h2 { font-weight: 600; }
   filter: brightness(1.05);
 }
 
-.sidebar .cta-btn {
-  background: #ffffff;
-  color: #128bf3;
-  border: 1px solid rgba(255,255,255,0.35);
-}
-
-.sidebar .cta-btn:visited {
-  color: #128bf3;
-}
-
-.sidebar .cta-btn:hover {
-  filter: brightness(0.98);
-}
-
 .oder {
   text-align: center;
 }
