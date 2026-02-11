@@ -4,7 +4,7 @@ lang: "de"
 collections:
   events:
     output: true
-    permalink: /events/:name/
+    permalink: /event/:name/
 
 contact:
   name: "Tobias Withalm"
