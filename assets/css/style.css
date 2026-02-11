@@ -358,9 +358,17 @@ h2 { font-weight: 600; }
 }
 
 .cta-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
+  display: block;
+}
+
+.cta-row > * {
+  display: block;
+  margin: 0 0 12px 0;
+}
+
+.cta-row > p {
+  text-align: center;
+  margin: 8px 0;
 }
 
 .cta-btn {
