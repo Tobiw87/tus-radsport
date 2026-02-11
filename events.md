@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Events
-permalink: /event/
+title: Galerie
+permalink: /events/
 ---
 
 <ul>
