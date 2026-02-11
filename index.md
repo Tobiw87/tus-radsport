@@ -43,7 +43,7 @@ title: Radsport in Werdohl
 
 ## So läuft die Probefahrt ab
 
-1. Du schreibst kurz per WhatsApp.
+1. Du schreibst kurz per WhatsApp
 2. Wir bestätigen Treffpunkt & Uhrzeit.
 3. Du fährst ungezwungen mit.
 4. Danach: Wenn’s passt, kommst du öfter mit.
