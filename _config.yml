@@ -1,6 +1,8 @@
 title: "TuS Jahn Werdohl – Abteilung Radsport"
 lang: "de"
 
+future: true
+
 collections:
   events:
     output: true
