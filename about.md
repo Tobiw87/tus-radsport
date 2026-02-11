@@ -25,6 +25,7 @@ So bleibt die Gruppe zusammen, niemand wird zurückgelassen und der Spaß steht 
   <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Probefahrt anfragen
   </a>
+</div>
 
 ---
 
@@ -53,3 +54,4 @@ Dann fahr einfach mit – wir freuen uns auf dich.
   <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
     Probefahrt anfragen
   </a>
+</div>
