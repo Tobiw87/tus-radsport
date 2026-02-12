@@ -4,9 +4,8 @@ title: "TuS Jahn – Radfahrer-Kodex"
 ---
 
 
-Dieser Kodex wurde von der Abteilungsleitung verabschiedet und ist verbindlich für alle Teilnehmerinnen und Teilnehmer des Trainings- und Vereinsbetriebs.
+Dieser Kodex wurde von der Abteilungsversammlung verabschiedet und ist verbindlich für alle Teilnehmerinnen und Teilnehmer des Trainings- und Vereinsbetriebs.
 
-Die Teilnahme am Training setzt die Anerkennung dieser Grundsätze voraus.
 
 ---
 
@@ -59,7 +58,3 @@ Die Teilnahme am Training setzt die Anerkennung dieser Grundsätze voraus.
 - Wiederholte oder grobe Verstöße gegen diesen Kodex können zum Ausschluss vom Training führen.
 - Die Entscheidung obliegt der Abteilungsleitung.
 
----
-
-**MTB Werdohl**  
-Abteilungsleitung
