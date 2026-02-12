@@ -46,10 +46,7 @@ sidebar:
     meeting_point_label: "Treffpunkt:"
     meeting_point_text: "Brüninghausplatz (vor dem alten WK)"
     bullets:
-      - "Dienstags & Donnerstags"
-      - "Vor- und Nachsommer: 17:30 – 20:00"
-      - "Juni – August: 18:30 – 21:00"
-      - "Endzeit variiert je nach Streckenlänge"
+      - "Dienstags 18:00 Uhr"
 
   downloads:
     title: "Downloads"
