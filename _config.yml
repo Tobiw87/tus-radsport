@@ -3,6 +3,9 @@ lang: "de"
 
 future: true
 
+exclude:
+  - tools
+
 collections:
   event:
     output: true
