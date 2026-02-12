@@ -35,8 +35,6 @@ navigation:
     url: "/news"
   - title: "Training"
     url: "/training"
-  - title: "Rennrad"
-    url: "/rennrad"
   - title: "Galerie"
     url: "/events"
   - title: "Radfahrer-Kodex"

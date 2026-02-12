@@ -158,14 +158,17 @@ Get-ChildItem $targetImageFolder -File |
         $i++
     }
 
-# Create/overwrite event md
+# Datum für Titel formatieren: dd.MM.yyyy
+$dt = [datetime]::ParseExact($eventDate, "yyyy-MM-dd", $null)
+$displayDate = $dt.ToString("dd.MM.yyyy")
+
 $frontmatter = @"
 ---
-layout: event
-title: "$eventTitle"
+layout: default
+title: "$eventTitle $displayDate"
 event_date: $eventDate
-image_folder: "/assets/images/events/$eventKey"
-permalink: /events/$eventKey/
+permalink: /event/$eventKey/
+image_folder: $eventKey
 ---
 "@
 

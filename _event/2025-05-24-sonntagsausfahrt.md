@@ -5,3 +5,5 @@ event_date: 2025-05-24
 permalink: /event/2025-05-24-sonntagsausfahrt/
 image_folder: 2025-05-24-sonntagsausfahrt
 ---
+
+{% include gallery.html folder=page.image_folder %}
