@@ -3,9 +3,15 @@ layout: default
 title: "Trainingszeiten"
 ---
 
-Unsere regelmäßigen Trainingsfahrten finden **dienstags und donnerstags ab 18:00 Uhr** statt.
+Unsere regelmäßigen Trainingsfahrten finden **dienstags um 18:00 Uhr** statt.
 
 Da wir unsere Runden an Wetter, Tageslicht und Jahreszeit anpassen, können sich Startzeit oder Streckenführung im Einzelfall leicht ändern. Deshalb empfehlen wir, **vor der ersten Teilnahme kurz Kontakt mit uns aufzunehmen**, um abzuklären, wann und wo genau gefahren wird.
+
+<div class="cta-row">
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.">
+    Schreib einfach
+  </a>
+</div>
 
 ---
 
