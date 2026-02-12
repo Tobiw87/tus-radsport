@@ -36,6 +36,8 @@ navigation:
     url: "/rennrad"
   - title: "Galerie"
     url: "/events"
+  - title: "Fahrer-Kodex"
+    url: "/kodex"
 
 sidebar:
   training:
