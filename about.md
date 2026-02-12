@@ -55,7 +55,7 @@ Neben den regelmäßigen Ausfahrten gibt es feste Termine, die unser Jahr strukt
 
 Diese Veranstaltungen stehen für Austausch, Planung und gemeinsames Erleben – auf und neben dem Rad.
 
-Weitere Informationen dazu findest du auf der Seite **[„Termine“](/termine/)**.
+Weitere Informationen dazu findest du auf der Seite **[„Termine“](/termine)**.
 
 ---
 
