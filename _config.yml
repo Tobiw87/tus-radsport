@@ -36,7 +36,7 @@ navigation:
     url: "/rennrad"
   - title: "Galerie"
     url: "/events"
-  - title: "Fahrer-Kodex"
+  - title: "Radfahrer-Kodex"
     url: "/kodex"
 
 sidebar:

@@ -5,53 +5,77 @@ title: "Über uns"
 
 ## Wer wir sind
 
-Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.** – eine bodenständige Truppe von ambitionierten Hobbyfahrern, die vor allem eines verbindet:  
+Wir sind die **Radsportabteilung des TuS Jahn Werdohl e.V.** – eine bodenständige Gemeinschaft von ambitionierten Hobbyfahrern, die vor allem eines verbindet:  
 die Freude am gemeinsamen Radfahren.
 
-Bei uns stehen **keine Rennlizenzen, keine Startnummern und keine Rekordjagd** im Vordergrund. Wichtig ist das Miteinander. Wir drehen gemeinsam unsere Runden, genießen die Bewegung an der frischen Luft und die Zeit auf dem Rad – ohne Leistungsdruck, aber mit sportlichem Anspruch.
+Bei uns stehen keine Rennlizenzen, keine Startnummern und keine Rekordjagd im Vordergrund. Wichtig ist das Miteinander. Wir drehen gemeinsam unsere Runden, genießen die Bewegung an der frischen Luft und die Zeit auf dem Rad – ohne Leistungsdruck, aber mit sportlichem Anspruch.
 
----
+Unser Grundsatz ist einfach:
 
-## Gemeinsam unterwegs
-
-Unsere Gruppe besteht aus **erwachsenen Fahrerinnen und Fahrern**, die regelmäßig gemeinsam trainieren. Gäste sind bei uns **jederzeit willkommen** – egal, ob man uns einfach mal kennenlernen oder dauerhaft mitfahren möchte.
-
-Ein fester Bestandteil ist unsere **MTB-Gruppe**. Hier gilt ein einfaches Prinzip:  
 > **Der Schwächste bestimmt das Tempo.**
 
-So bleibt die Gruppe zusammen, niemand wird zurückgelassen und der Spaß steht immer im Vordergrund.
-
-<div class="cta-row">
-  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
-    Probefahrt anfragen
-  </a>
-</div>
+So bleibt die Gruppe zusammen. Niemand wird zurückgelassen.
 
 ---
 
-## Training & Aktivitäten
+## Unsere Gruppen
 
-- **MTB-Training:** Dienstags um **18:00 Uhr**  
-- **Treffpunkt:** vor dem **alten WK**
+### MTB
 
-Neben den regelmäßigen Ausfahrten unternehmen wir auch abseits des Alltags etwas gemeinsam. Ein besonderes Highlight ist unser **jährliches Trainingslager**, das uns immer wieder an unterschiedliche Orte führt – nicht als Leistungsprüfung, sondern als gemeinsames Erlebnis.
+Unsere MTB-Gruppe ist fester Bestandteil des Vereinslebens.  
+Gefahren wird regelmäßig, mit klarer Struktur und einem festen Termin.
+
+- **Training:** Dienstags um 18:00 Uhr  
+- **Treffpunkt:** vor dem alten WK  
+
+Das Tempo wird gemeinsam gefunden. Technik, Ausdauer und Sicherheit entwickeln sich mit der Zeit – aber immer im Sinne der Gruppe.
+
+Gäste sind jederzeit willkommen.
+
+---
+
+### Rennrad
+
+Auch auf dem Rennrad sind wir unterwegs – nicht nach starrem Trainingsplan, sondern dann, wenn Wetter, Zeit und Gruppe zusammenpassen.
+
+In der Regel entstehen etwa einmal im Monat gemeinsame Ausfahrten. Gefahren wird ruhig und diszipliniert in der Gruppe, meist in Kolonne. Typische Distanzen liegen zwischen 70 und 100 Kilometern.
+
+Auch hier gilt: Das gemeinsame Erlebnis steht über dem sportlichen Ehrgeiz. Wer einmal nicht ganz mithalten kann, wird mitgenommen. Entscheidend ist, dass wir als Gruppe unterwegs sind.
+
+---
+
+## Unser Vereinsjahr
+
+Neben den regelmäßigen Ausfahrten gibt es feste Termine, die unser Jahr strukturieren und das Gemeinschaftsgefühl stärken:
+
+- **Jahreshauptversammlung im Januar**
+- **Saisoneröffnung im Frühjahr**
+- **Trainingslager an wechselnden Orten**
+- **Saisonabschluss im Herbst**
+
+Diese Veranstaltungen stehen für Austausch, Planung und gemeinsames Erleben – auf und neben dem Rad.
+
+Weitere Informationen dazu findest du auf der Seite **[„Termine“](/termine/)**.
 
 ---
 
 ## Unser Anspruch
 
-Wir sind **kein Hochglanzverein** und wollen das auch nicht sein.  
-Bei uns zählt das **Zusammenfahren mehr als neue Bestzeiten**, das Miteinander mehr als der Vergleich.
+Wir sind kein Hochglanzverein und wollen das auch nicht sein.
 
-Wer Lust auf ehrlichen Radsport, entspannte Atmosphäre und eine offene Gemeinschaft hat, ist bei uns genau richtig.
+Bei uns zählt das Zusammenfahren mehr als neue Bestzeiten, das Miteinander mehr als der Vergleich. Wer Lust auf ehrlichen Radsport, entspannte Atmosphäre und eine offene Gemeinschaft hat, ist bei uns genau richtig.
 
 ---
 
-**Neugierig geworden?**  
-Dann fahr einfach mit – wir freuen uns auf dich.
+## Mitfahren?
+
+Neugierig geworden?
+
+Dann fahr einfach mit und lerne uns persönlich kennen.  
+Eine kurze Nachricht genügt – wir freuen uns auf dich.
 
 <div class="cta-row">
-  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.%20Passt%20Dienstag%2018%3A00%20am%20Br%C3%BCninghausplatz%3F" rel="noopener noreferrer">
-    Probefahrt anfragen
+  <a class="cta-btn" href="https://wa.me/491608226897?text=Hallo%2C%20ich%20w%C3%BCrde%20gern%20mal%20bei%20euch%20mitfahren.">
+    Einfach mitfahren
   </a>
 </div>
