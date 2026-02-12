@@ -427,4 +427,10 @@ h2 { font-weight: 600; }
 
 .news-card {
   margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.news-card:last-child {
+  border-bottom: none;
 }
