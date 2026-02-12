@@ -8,7 +8,7 @@
   {% for f in files %}
     {% assign ext = f.extname | downcase %}
     {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
-      <a href="{{ f.path | relative_url }}">
+      <a href="{{ f.path | relative_url }}" class="glightbox" data-gallery="event-{{ folder }}">
         <img src="{{ f.path | relative_url }}" alt="">
       </a>
     {% endif %}

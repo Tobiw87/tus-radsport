@@ -170,6 +170,10 @@ event_date: $eventDate
 permalink: /event/$eventKey/
 image_folder: $eventKey
 ---
+
+
+{% include gallery.html folder=page.image_folder %}
+
 "@
 
 New-Item -ItemType File -Force -Path $eventFilePath -Value $frontmatter | Out-Null
