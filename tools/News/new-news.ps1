@@ -100,41 +100,18 @@ Mehr Inhalt hier. (Alles unterhalb von <!--more--> erscheint nach Klick auf „M
 
 New-Item -ItemType File -Force -Path $newsFile -Value $template | Out-Null
 
-# Im Editor öffnen (Notepad)
-Start-Process notepad.exe $newsFile
-Write-Host ""
-Write-Host "Notepad wurde geöffnet. Bitte Text schreiben, speichern, schließen."
-Read-Host "Drücke Enter, sobald du gespeichert und Notepad geschlossen hast"
+# Datei in VS Code öffnen (und danach beenden)
+$codeCmd = Get-Command code -ErrorAction SilentlyContinue
 
 Write-Host ""
 Write-Host "Fertig!"
 Write-Host " - News-Datei: $newsFile"
 Write-Host ""
 
-# Optional git add/commit/push
-if ($doGit) {
-    Push-Location $repoRoot
-    try {
-        & git rev-parse --is-inside-work-tree | Out-Null
-
-        $rel = "_news/$newsDate-$slug.md"
-        & git add $rel
-
-        $msg = "News: $newsTitle ($newsDate)"
-        & git commit -m "$msg"
-
-        if ($doPush) {
-            $branch = Get-GitBranch
-            if ([string]::IsNullOrWhiteSpace($branch)) {
-                Write-Host "Konnte Branch nicht ermitteln. Push abgebrochen."
-            } else {
-                & git push origin $branch
-            }
-        }
-    } catch {
-        Write-Host "Git-Fehler: $($_.Exception.Message)"
-    } finally {
-        Pop-Location
-    }
-    Write-Host ""
+if ($codeCmd) {
+    Start-Process -FilePath $codeCmd.Source -ArgumentList @("-r", "$newsFile")
+    Write-Host "Geöffnet in VS Code."
+} else {
+    Write-Host "VS Code (Befehl 'code') wurde nicht gefunden."
+    Write-Host "In VS Code (Command Palette): Shell Command: Install 'code' command in PATH"
 }
