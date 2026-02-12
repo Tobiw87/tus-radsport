@@ -53,6 +53,12 @@
         {% endunless %}
 
         {{ content }}
+
+        {% if page.collection == "news" %}
+          <p class="news-back">
+            <a href="{{ '/news' | relative_url }}">← Zurück zu den News</a>
+          </p>
+        {% endif %}
       </section>
     </div>
   </main>

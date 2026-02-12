@@ -412,3 +412,15 @@ h2 { font-weight: 600; }
   border-radius: 10px;
   display: block;
 }
+
+.news-more {
+  font: inherit;
+  text-decoration: underline;
+  padding: 0;
+  border: 0;
+  background: none;
+}
+
+.news-back a {
+  text-decoration: underline;
+}
