@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Saisoneröffnung"
+title: "Saisoneröffnung 2026"
 date: 2026-02-12
 ---
 

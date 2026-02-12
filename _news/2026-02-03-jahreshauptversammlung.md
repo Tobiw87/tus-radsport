@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jahreshauptversammlung"
+title: "Jahreshauptversammlung 2026"
 date: 2026-02-12
 ---
 
@@ -11,8 +11,41 @@ im Vereinsheim des TuS Versetal statt.
 <!--more-->
 
 
-**Beginn:** 19:00 Uhr
+Hallo Radsportler,
 
-Neben den regulären Tagesordnungspunkten gibt es einen Rückblick auf das vergangene Jahr sowie einen Ausblick auf die kommende Saison.
+hiermit laden wir zur offiziellen JHV am 21.02.2026 im Vereinsheim des TUS Versetal ein.
+**Start 19:00uhr**
 
-Wir freuen uns auf eine rege Beteiligung.
+Tagesordnungspunkte
+
+TOP 1
+Begrüßung, Genehmigung der Tagesordnung
+
+TOP 2
+Jahresrückblick
+
+TOP 3
+Kassenbericht
+
+TOP 4
+Entlastung des Abteilungsvorstandes
+
+TOP 5
+Wahl des Kassenwartes
+
+TOP 6
+- Saisoneröffnung 28.03.2026
+- Trainingslager 04.06.2026 – 07.06.2026
+- Saisonabschluss 24.10.2026
+- Sonntagsausfahrten
+- Wandern
+
+TOP 7
+Anträge und Verschiedenes
+
+
+Für Speis und Trank wird gesorgt.
+Über eine rege Beteiligung werden wir uns sehr freuen.
+
+Mit sportlichem Gruß
+Der Vorstand
