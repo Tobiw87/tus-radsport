@@ -35,8 +35,8 @@ navigation:
     url: "/news"
   - title: "Training"
     url: "/training"
-  - title: "Galerie"
-    url: "/events"
+  #- title: "Galerie"
+   # url: "/events"
   - title: "Radfahrer-Kodex"
     url: "/kodex"
 
