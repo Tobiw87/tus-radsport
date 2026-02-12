@@ -6,7 +6,12 @@ future: true
 exclude:
   - tools
 
+excerpt_separator: "<!--more-->"
+
 collections:
+  news:
+    output: true
+    permalink: /news/:name/
   event:
     output: true
 

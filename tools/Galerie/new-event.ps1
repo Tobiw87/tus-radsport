@@ -83,7 +83,7 @@ if ([string]::IsNullOrWhiteSpace($slug)) {
 
 $eventKey = "$eventDate-$slug"
 
-$repoRoot = (Resolve-Path "$PSScriptRoot\..").Path
+$repoRoot = (& git rev-parse --show-toplevel).Trim()
 $workFolder = Join-Path $PSScriptRoot "work"
 $targetImageFolder = Join-Path $repoRoot "assets\images\events\$eventKey"
 $eventFilePath = Join-Path $repoRoot "_event\$eventKey.md"

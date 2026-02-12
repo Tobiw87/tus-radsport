@@ -89,9 +89,9 @@ ohne alleingelassen zu werden – passt du rein.
     <p>Wann wir unterwegs sind, wo wir starten und was dich bei uns erwartet.</p>
   </a>
 
-  <a class="card" href="{{ '/rennrad' | relative_url }}">
-    <h3>Rennrad</h3>
-    <p>Gemeinsame Ausfahrten, sauberes Fahren in der Gruppe und lange Strecken.</p>
+  <a class="card" href="{{ '/kodex' | relative_url }}">
+    <h3>Radfahrerkodex</h3>
+    <p>Stell dich auf ein paar wenige Gepflogenheiten ein.</p>
   </a>
 
 </div>
