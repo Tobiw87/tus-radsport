@@ -424,3 +424,7 @@ h2 { font-weight: 600; }
 .news-back a {
   text-decoration: underline;
 }
+
+.news-card {
+  margin-bottom: 2.5rem;
+}
