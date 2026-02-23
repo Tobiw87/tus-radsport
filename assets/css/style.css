@@ -9,7 +9,8 @@
   --radius: 10px;
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 
-  --bg-card: rgba(18,139,243,0.50);
+  --bg-card: rgba(100, 27, 38, 0.90);
+  --header-bg: #F07A1A;
 
   --border-soft: 1px solid rgba(255,255,255,0.10);
 
@@ -102,7 +103,7 @@ a:hover {
   max-width: var(--max-width);
   height: var(--header-height);
 
-  background: var(--bg-card);
+  background: var(--header-bg);
   color: var(--text-header);
 
   border-bottom: var(--border-soft);
@@ -376,7 +377,7 @@ h2 { font-weight: 600; }
   padding: 14px 16px;
   border-radius: 10px;
   background: #fff;
-  color: #128bf3;
+  color: #641B26;
   font-weight: 700;
   text-align: center;
   text-decoration: none;
