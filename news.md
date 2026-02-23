@@ -8,7 +8,6 @@ title: "News"
   {% for item in items %}
     <article class="news-card">
       <h3>{{ item.title }}</h3>
-      <p><small>{{ item.date | date: "%d.%m.%Y" }}</small></p>
       <div class="news-excerpt">{{ item.excerpt }}</div>
       <p><a class="news-more" href="{{ item.url | relative_url }}">Mehr</a></p>
     </article>
