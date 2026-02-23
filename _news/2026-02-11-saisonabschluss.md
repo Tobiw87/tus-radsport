@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Saisoneröffnung 2026"
-date: 2026-02-12
+title: "Saisonabschluss 2026"
+date: 2026-02-24
 ---
 
-In diesem Jahr findet unsere Saisoneröffnung am **28.03.2026** statt.
+In diesem Jahr findet unsere Saisonabschluss am **10.10.2026** statt.
 
 **Beginn:** 12:00 Uhr, am Brüninghausplatz in Werdohl
 
 
 <!--more-->
 
-Als Guide hat sich Thomas Niggemann bereiterklärt die Tour zu führen.
+Als Guide hat sich Adam Morgalla bereiterklärt die Tour zu führen.
 
 **Streckeninformationen werden hier in Kürze vervollständigt.**
 
-Den Abschluss findet die Tour in der Deipschlade auf Kaltgetränke und Grillgut.
+Den Abschluss findet die Tour in Hilfringhausen auf Kaltgetränke und Grillgut.
 Auch Vegetarier kommen hier auf ihre Kosten.
 Für Nicht-Mitglieder wird für die Teilnahme an der Einkehr
 ein Selbstkostenbeitrag von 25 € erhoben, der bei einem Vorstandsmitglied zu entrichten ist.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jahreshauptversammlung 2026"
-date: 2026-02-12
+date: 2026-02-11
 ---
 
 In diesem Jahr findet unsere Jahreshauptversammlung am **21.02.2026**  
