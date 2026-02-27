@@ -15,10 +15,10 @@ Als Guide hat sich Adam Morgalla bereiterklärt die Tour zu führen.
 
 **Streckeninformationen werden hier in Kürze vervollständigt.**
 
-Den Abschluss findet die Tour in Hilfringhausen auf Kaltgetränke und Grillgut.
-Auch Vegetarier kommen hier auf ihre Kosten.
+Die Einkehr für den gemütlichen Teil wird demnächst bekannt gegeben.
+Auch Vegetarier werden wieder auf ihre Kosten kommen.
 Für Nicht-Mitglieder wird für die Teilnahme an der Einkehr
-ein Selbstkostenbeitrag von 25 € erhoben, der bei einem Vorstandsmitglied zu entrichten ist.
+ein Selbstkostenbeitrag von ca. 25 € erhoben, der bei einem Vorstandsmitglied zu entrichten ist.
 
 Ein kurze formlose Anmeldung, egal ob nur mitgefahren wird oder auch mit
 an der Einkehr ist nicht erforderlich, aber zur besseren Planung wünschenswert.
