@@ -9,8 +9,8 @@
   --radius: 10px;
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 
-  --bg-card: rgba(100, 27, 38, 0.75);
-  --header-bg: #F07A1A;
+  --bg-card: rgba(34, 81, 169, 0.75);
+  --header-bg: #ed1c24ff;
 
   --border-soft: 1px solid rgba(255,255,255,0.10);
 
@@ -226,7 +226,7 @@ a:hover {
   padding: 24px;
   background: #fff;
   border-radius: var(--radius);
-  color: var(--bg-card);
+  color: #222;
 
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -239,7 +239,7 @@ a:hover {
 
 .card h3 {
   margin: 0 0 8px;
-  color: #6f6d72;
+  color: var(--header-bg);
 }
 
 .card p {
@@ -331,7 +331,7 @@ h2 { font-weight: 600; }
     left: 0;
     right: 0;
 
-    background: #8E8C92;
+    background: var(--header-bg);
     padding: 16px;
 
     flex-direction: column;
@@ -377,7 +377,7 @@ h2 { font-weight: 600; }
   padding: 14px 16px;
   border-radius: 10px;
   background: #fff;
-  color: #641B26;
+  color: var(--header-bg);
   font-weight: 700;
   text-align: center;
   text-decoration: none;
