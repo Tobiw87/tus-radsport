@@ -91,6 +91,20 @@ Diese Website enthält Links zu externen Websites Dritter (z. B. Hauptverein, Wh
 Beim Anklicken eines externen Links verlässt du diese Website.  
 Für die Inhalte und die Datenverarbeitung auf den verlinkten Seiten ist ausschließlich der jeweilige Anbieter verantwortlich.
 
+## 6a. Nutzung von QR-Codes
+
+Auf unseren gedruckten Materialien (z. B. Plakaten) verwenden wir QR-Codes, die über einen externen Dienst bereitgestellt werden.
+
+Beim Scannen des QR-Codes wird zunächst eine Verbindung zu den Servern des jeweiligen Anbieters hergestellt. Dabei können insbesondere folgende Daten verarbeitet werden:
+
+- IP-Adresse  
+- Zeitpunkt des Zugriffs  
+- technische Informationen zum verwendeten Gerät  
+
+Der QR-Code dient der anonymen statistischen Auswertung der Nutzung unserer Angebote sowie der Weiterleitung auf unsere Website.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Analyse und Verbesserung unserer Öffentlichkeitsarbeit).
+
 ---
 
 ## 7. Kontaktaufnahme per E-Mail
