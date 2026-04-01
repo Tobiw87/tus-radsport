@@ -13,7 +13,7 @@ In diesem Jahr findet unsere Saisoneröffnung am **28.03.2026** statt.
 
 Als Guide hat sich Thomas Niggemann bereiterklärt die Tour zu führen.
 
-**Streckeninformationen werden hier in Kürze vervollständigt.**
+
 
 Den Abschluss findet die Tour in der Deipschlade auf Kaltgetränke und Grillgut.
 Auch Vegetarier kommen hier auf ihre Kosten.
